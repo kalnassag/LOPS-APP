@@ -1,4 +1,4 @@
-PROPERTY_MAPPING = {
+PROPERTY_MAP = {
 "_id": "_id",
 "Product.Brand": "Product_Brand",
 "Product.Family": "Product_Family",

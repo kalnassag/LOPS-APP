@@ -3,5 +3,3 @@ class Product():
         self.id = id
         self.model = model
         self.brand = brand
-
-    

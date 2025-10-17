@@ -1,29 +1,33 @@
-import json
-import re
-from os.path import split
-
+import json, re
 import pandas as pd
 
-property_mapping = {}
 
-# def json_mapping(file):
-#     # with open(file, 'r') as file:
-#     print(pd.json_normalize(file))
-#
-# json_mapping('sample.json')
-f = open('sample.json', 'r')
-file = json.loads(f.read())
+def normalise_path_to_properties(col):
+    pattern = r'[\s().]+'
+    normalised_item = re.sub(pattern, "_", str(col))
+    normalised_item = re.sub(r'_+', '_', normalised_item)
+    normalised_item = normalised_item.strip("_").lower()
+    if normalised_item.startswith("no_"):
+        normalised_item = "has" + normalised_item.lstrip("no.")
+    return normalised_item
 
-print (type(file))
+def map_properties():
+    property_mapping = {}
+    with open('smartwatch_sample.json', 'r') as f:
+        file = json.load(f)
+        data = pd.json_normalize(file)
+        for col in data.columns:
+            if col.startswith('No.'):
+                continue
+            graph_property = normalise_path_to_properties(col)
+            property_mapping[col] = graph_property
+    return property_mapping
 
-print(file.keys())
-print(file['Design'].keys())
-print(file['Design']['Keyboard'].keys())
-print(file['Design']['Keyboard']['Additional Features'])
+prop_mapping = map_properties()
 
-data = pd.json_normalize(file)
-pattern = r'[\s().]+'
+def save_mapping(prop_mapping, filename='laptop_property_mapping.json'):
+    with open(filename, 'w') as f:
+        json.dump(prop_mapping, f, indent=2)
+        print("succeeded")
 
-for item in data:
-    normalised_item = re.sub(pattern, "_", str(item))
-    print(f"\"{item}\": \"{normalised_item}\",")
+save_mapping(prop_mapping, filename = 'smartwatch_property_mapping.json')

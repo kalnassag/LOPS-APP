@@ -16,5 +16,3 @@ class LaptopDataLoader:
 
     def extract_properties(self, data):
         """Extract all properties using mapping config"""
-
-    properties = {}
