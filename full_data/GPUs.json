@@ -1,0 +1,6263 @@
+[
+  {
+    "_id": "646f83b581980c969226a67c",
+    "Product": {
+      "Part Number": "TUF 3-RX5600XT-O6G-EVO-GAMING",
+      "Manufacturer": "ASUS",
+      "Market Segment": "Desktop",
+      "GPU Base": "AMD Radeon RX 5600 XT",
+      "Category": "GPUs",
+      "Model": "ASUS TUF Gaming X3 Radeon RX 5600 XT EVO",
+      "Version": "TUF 3-RX5600XT-O6G-EVO-GAMING",
+      "english_id": "646f83b581980c969226a67c",
+      "Brand": "ASUS",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "144",
+        "Stream Processors": "2304"
+      },
+      "Clock Frequencies": {
+        "BIOS 2 Boost Clock": "1770 MHz",
+        "Boost Clock": "1750 MHz",
+        "BIOS 2 Game Clock": "1660 MHz",
+        "Game Clock": "1615 MHz"
+      },
+      "Architecture": {
+        "Die Name": "Navi 10 XLE",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "10.3 billion",
+        "Architecture": "RDNA 1.0",
+        "Fabrication Process": "7 nm"
+      },
+      "API": {
+        "Mantle Support": "Present",
+        "Vulkan Support": "1.1.125",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Display": {
+      "Technologies": {
+        "Color ROPs": "64",
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "Direct Compute 12, AMD PowerTune, AMD ZeroCore Power, ATI/AMD PowerPlay, HD3D Technology, HDCP 2.3, High Dynamic Range (HDR) Support"
+      },
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 3112",
+        "Max DisplayPort Resolution": "7680 x 4320",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320"
+      }
+    },
+    "Performance": {
+      "Additional Performance Metrics": {
+        "Compute Units": "36"
+      },
+      "Fill Rates": {
+        "Texture Fill Rate": "252.0 / 254.88 Gigatexels/s",
+        "Pixel Fill Rate": "112.0 / 113.28 Gigapixels/s"
+      },
+      "Compute Power": {
+        "BIOS 2 Double Precision": "509.76 GFLOPS",
+        "Double Precision": "504.00 GFLOPS",
+        "Single Precision": "8064.00 GFLOPS",
+        "BIOS 2 Single Precision": "8156.16 GFLOPS"
+      }
+    },
+    "Design": {
+      "Slot Width": "Triple Slot",
+      "Dimensions": "11.13 inches (282.6 mm) x 5.06 inches (128.5 mm)",
+      "Card Height": "128.5 mm, 5.06 inches",
+      "Card Length": "282.6 mm, 11.13 inches"
+    },
+    "Power": {
+      "Max Power Draw": "150 W",
+      "Max Power Draw_W": 150
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4, HDMI",
+      "Power Connectors": "1 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "192 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "6144 MB",
+      "Memory Bandwidth": "288 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226a67c",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "ASUS ASUS TUF Gaming X3 Radeon RX 5600 XT EVO",
+      "Architecture": "Navi 10 XLE, RDNA 1.0",
+      "Memory": "6144 MB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 252.0 / 254.88 Gigatexels/s, Pixel: 112.0 / 113.28 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Triple Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226decc",
+    "Product": {
+      "Manufacturer": "NVIDIA",
+      "Market Segment": "Desktop",
+      "Category": "GPUs",
+      "Model": "NVIDIA GeForce RTX 3060 Ti",
+      "Version": "",
+      "english_id": "646f83b581980c969226decc",
+      "Brand": "NVIDIA",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "152",
+        "RT Cores": "38",
+        "CUDA Cores": "4864",
+        "ROPs": "80",
+        "Tensor Cores": "152",
+        "SM Count": "38"
+      },
+      "CUDA Version": "8.6",
+      "Clock Frequencies": {
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1665 MHz"
+      },
+      "Architecture": {
+        "Die Name": "GA104-200-A1",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "17.4 billion",
+        "Architecture": "Ampere",
+        "Fabrication Process": "8 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "9.53 inches (242 mm) x 4.41 inches (112 mm)",
+      "Card Height": "112 mm, 4.41 inches",
+      "Card Length": "242 mm, 9.53 inches"
+    },
+    "Power": {
+      "Max Power Draw": "200 W",
+      "Max Power Draw_W": 200
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "Power Connectors": "1 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4a",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "L2 Cache": "4 MB",
+      "Clock Speed": "1750 MHz",
+      "Size": "8 GB",
+      "Memory Bandwidth": "448 GB/s",
+      "Effective Memory Clock": "14 GHz",
+      "Type": "GDDR6",
+      "L1 Cache": "128 KB per SM",
+      "Clock Speed_MHz": 1750
+    },
+    "Price": {
+      "Launch Price": "$399",
+      "MSRP": null
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "253.08 Gigatexels/s",
+        "Pixel Fill Rate": "133.2 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "253.08 GFLOPS",
+        "Single Precision": "16.20 TFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.3, PhysX"
+      }
+    },
+    "english_id": "646f83b581980c969226decc",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "NVIDIA NVIDIA GeForce RTX 3060 Ti",
+      "Architecture": "GA104-200-A1, Ampere",
+      "Memory": "8 GB GDDR6 at 1750 MHz",
+      "Fill Rates": "Texture: 253.08 Gigatexels/s, Pixel: 133.2 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226da09",
+    "Product": {
+      "Part Number": "ROG-STRIX-RX5600XT-A6G-GAMING",
+      "Manufacturer": "ASUS",
+      "Market Segment": "Desktop",
+      "GPU Base": "AMD Radeon RX 5600 XT",
+      "Category": "GPUs",
+      "Model": "ASUS ROG Strix Radeon RX 5600 XT Advanced Edition",
+      "Version": "ROG-STRIX-RX5600XT-A6G-GAMING",
+      "english_id": "646f83b581980c969226da09",
+      "Brand": "ASUS",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "144",
+        "Stream Processors": "2304"
+      },
+      "Clock Frequencies": {
+        "BIOS 2 Boost Clock": "1770 MHz",
+        "Graphics Clock": "1530 MHz",
+        "Boost Clock": "1750 MHz",
+        "BIOS 2 Game Clock": "1670 MHz",
+        "Game Clock": "1670 MHz"
+      },
+      "Architecture": {
+        "Die Name": "Navi 10 XLE",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "10.3 billion",
+        "Architecture": "RDNA 1.0",
+        "Fabrication Process": "7 nm"
+      },
+      "API": {
+        "Mantle Support": "Present",
+        "Vulkan Support": "1.1.125",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Display": {
+      "Technologies": {
+        "Color ROPs": "64",
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "Direct Compute 12, AMD PowerTune, AMD ZeroCore Power, ATI/AMD PowerPlay, HD3D Technology, HDCP 2.3, High Dynamic Range (HDR) Support"
+      },
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 3112",
+        "Max DisplayPort Resolution": "7680 x 4320",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320"
+      }
+    },
+    "Performance": {
+      "Additional Performance Metrics": {
+        "Compute Units": "36"
+      },
+      "Fill Rates": {
+        "Texture Fill Rate": "252.0 / 254.88 Gigatexels/s",
+        "Pixel Fill Rate": "112.0 / 113.28 Gigapixels/s"
+      },
+      "Compute Power": {
+        "BIOS 2 Double Precision": "509.76 GFLOPS",
+        "Double Precision": "504.00 GFLOPS",
+        "Single Precision": "8064.00 GFLOPS",
+        "BIOS 2 Single Precision": "8156.16 GFLOPS"
+      }
+    },
+    "Design": {
+      "Slot Width": "Triple Slot",
+      "Dimensions": "12.0 inches (305 mm) x 4.6 inches (118 mm)",
+      "Card Height": "118 mm, 4.6 inches",
+      "Card Length": "305 mm, 12.0 inches"
+    },
+    "Power": {
+      "Max Power Draw": "150 W",
+      "Max Power Draw_W": 150
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4, HDMI",
+      "Power Connectors": "1 x 6-pin, 1 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 6-pin",
+        "1 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "192 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "6144 MB",
+      "Memory Bandwidth": "288 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226da09",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "ASUS ASUS ROG Strix Radeon RX 5600 XT Advanced Edition",
+      "Architecture": "Navi 10 XLE, RDNA 1.0",
+      "Graphics Clock": "1530 MHz",
+      "Memory": "6144 MB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 252.0 / 254.88 Gigatexels/s, Pixel: 112.0 / 113.28 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Triple Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226b1e9",
+    "Product": {
+      "Part Number": "04G-P4-1257-KR",
+      "Manufacturer": "EVGA",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "EVGA GeForce GTX 1650 SC ULTRA GDDR6 GAMING",
+      "Version": "04G-P4-1257-KR",
+      "english_id": "646f83b581980c969226b1e9",
+      "Brand": "EVGA",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Boost Clock": "1710 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "7.96 inches (202.1 mm) x 4.376 inches (111.15 mm)",
+      "Card Height": "111.15 mm, 4.376 inches",
+      "Card Length": "202.1 mm, 7.96 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "2 x DisplayPort 1.4, HDMI",
+      "Power Connectors": "1 x 6-pin",
+      "Display Connectors_Array": [
+        "2 x DisplayPort 1.4",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 6-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "95.76 Gigatexels/s",
+        "Pixel Fill Rate": "54.72 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "95.76 GFLOPS",
+        "Single Precision": "3064.32 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226b1e9",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "EVGA EVGA GeForce GTX 1650 SC ULTRA GDDR6 GAMING",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 95.76 Gigatexels/s, Pixel: 54.72 Gigapixels/s",
+      "Display Connectors": "2 x DisplayPort 1.4, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226af26",
+    "Product": {
+      "Manufacturer": "AMD",
+      "Market Segment": "Desktop",
+      "Category": "GPUs",
+      "Model": "AMD Radeon RX 6800 XT",
+      "Version": "",
+      "english_id": "646f83b581980c969226af26",
+      "Brand": "AMD",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "288",
+        "RT Cores": "72",
+        "Stream Processors": "4608"
+      },
+      "Clock Frequencies": {
+        "Graphics Clock": "1825 MHz",
+        "Boost Clock": "2250 MHz",
+        "Game Clock": "2015 MHz"
+      },
+      "Architecture": {
+        "Die Name": "Navi 21 XT (215-121000177)",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "26.8 billion",
+        "Architecture": "RDNA 2.0",
+        "Fabrication Process": "7 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.1",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Display": {
+      "Technologies": {
+        "Color ROPs": "128",
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "HDCP 2.3, High Dynamic Range (HDR) Support"
+      },
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 3112",
+        "Max DisplayPort Resolution": "7680 x 4320",
+        "Max Monitors Supported": "Up to 4 displays"
+      }
+    },
+    "Performance": {
+      "Additional Performance Metrics": {
+        "Compute Units": "72"
+      },
+      "Fill Rates": {
+        "Texture Fill Rate": "648.0 Gigatexels/s",
+        "Pixel Fill Rate": "288.0 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "1296 GFLOPS",
+        "Single Precision": "20.74 TFLOPS"
+      }
+    },
+    "Design": {
+      "Slot Width": "Triple Slot",
+      "Dimensions": "10.5 inches (266.7 mm) x 4.72 inches (120 mm)",
+      "Card Height": "120 mm, 4.72 inches",
+      "Card Length": "266.7 mm, 10.5 inches"
+    },
+    "Power": {
+      "Max Power Draw": "300 W",
+      "Max Power Draw_W": 300
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "2 x DisplayPort 1.4a, HDMI, USB Type-C",
+      "Power Connectors": "2 x 8-pin",
+      "Display Connectors_Array": [
+        "2 x DisplayPort 1.4a",
+        "HDMI",
+        "USB Type-C"
+      ],
+      "Power Connectors_Array": [
+        "2 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "Clock Speed": "2000 MHz",
+      "Size": "16 GB",
+      "Memory Bandwidth": "512 GB/s",
+      "Effective Memory Clock": "16000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 2000
+    },
+    "Price": {
+      "Launch Price": "$649",
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226af26",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "AMD AMD Radeon RX 6800 XT",
+      "Architecture": "Navi 21 XT (215-121000177), RDNA 2.0",
+      "Graphics Clock": "1825 MHz",
+      "Memory": "16 GB GDDR6 at 2000 MHz",
+      "Fill Rates": "Texture: 648.0 Gigatexels/s, Pixel: 288.0 Gigapixels/s",
+      "Display Connectors": "2 x DisplayPort 1.4a, HDMI, USB Type-C",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Triple Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226ad44",
+    "Product": {
+      "Part Number": "GF-GTX1650D6-E4GB",
+      "Manufacturer": "Kuroutoshikou",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "Kuroutoshikou GeForce GTX 1650 GDDR6",
+      "Version": "GF-GTX1650D6-E4GB",
+      "english_id": "646f83b581980c969226ad44",
+      "Brand": "Kuroutoshikou",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Boost Clock": "1605 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "7.12 inches (181 mm) x 3.82 inches (97 mm)",
+      "Card Height": "97 mm, 3.82 inches",
+      "Card Length": "181 mm, 7.12 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "Power Connectors": "",
+      "Display Connectors_Array": [
+        "DisplayPort 1.4",
+        "Dual Link DVI-D",
+        "HDMI"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "89.88 Gigatexels/s",
+        "Pixel Fill Rate": "51.36 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "89.88 GFLOPS",
+        "Single Precision": "2876.16 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max DVI Resolution": "2560 x 1600",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226ad44",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "Kuroutoshikou Kuroutoshikou GeForce GTX 1650 GDDR6",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 89.88 Gigatexels/s, Pixel: 51.36 Gigapixels/s",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226bf56",
+    "Product": {
+      "Part Number": "NE6165001BG1-1175D (Barcode: 471056224-1808)",
+      "Manufacturer": "Gainward",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "Gainward GeForce GTX 1650 D6 Ghost",
+      "Version": "NE6165001BG1-1175D (Barcode: 471056224-1808)",
+      "english_id": "646f83b581980c969226bf56",
+      "Brand": "Gainward",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1590 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "6.69 inches (170 mm) x 4.41 inches (112 mm)",
+      "Card Height": "112 mm, 4.41 inches",
+      "Card Length": "170 mm, 6.69 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "2 x DisplayPort 1.4, HDMI",
+      "Power Connectors": "1 x 6-pin",
+      "Display Connectors_Array": [
+        "2 x DisplayPort 1.4",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 6-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "89.04 Gigatexels/s",
+        "Pixel Fill Rate": "50.88 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "89.04 GFLOPS",
+        "Single Precision": "2849.28 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226bf56",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "Gainward Gainward GeForce GTX 1650 D6 Ghost",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 89.04 Gigatexels/s, Pixel: 50.88 Gigapixels/s",
+      "Display Connectors": "2 x DisplayPort 1.4, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226a688",
+    "Product": {
+      "Part Number": "TUF-RX6900XT-O16G-GAMING",
+      "Manufacturer": "ASUS",
+      "Market Segment": "Desktop",
+      "GPU Base": "AMD Radeon RX 6900 XT",
+      "Category": "GPUs",
+      "Model": "ASUS TUF GAMING Radeon RX 6900 XT",
+      "Version": "TUF-RX6900XT-O16G-GAMING",
+      "english_id": "646f83b581980c969226a688",
+      "Brand": "ASUS",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "320",
+        "RT Cores": "80",
+        "Stream Processors": "5120"
+      },
+      "Clock Frequencies": {
+        "BIOS 2 Boost Clock": "2340 MHz",
+        "Graphics Clock": "1825 MHz",
+        "Boost Clock": "2310 MHz",
+        "BIOS 2 Game Clock": "2105 MHz",
+        "Game Clock": "2075 MHz"
+      },
+      "Architecture": {
+        "Die Name": "Navi 21 XTX (215-121000167)",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "26.8 billion",
+        "Architecture": "RDNA 2.0",
+        "Fabrication Process": "7 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.1",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Display": {
+      "Technologies": {
+        "Color ROPs": "128",
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "HDCP 2.3, High Dynamic Range (HDR) Support"
+      },
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 3112",
+        "Max DisplayPort Resolution": "7680 x 4320",
+        "Max Monitors Supported": "Up to 4 displays"
+      }
+    },
+    "Performance": {
+      "Additional Performance Metrics": {
+        "Compute Units": "80"
+      },
+      "Fill Rates": {
+        "Texture Fill Rate": "739.2 / 748.8 Gigatexels/s",
+        "Pixel Fill Rate": "295.68 / 299.52 Gigapixels/s"
+      },
+      "Compute Power": {
+        "BIOS 2 Double Precision": "1497.6 GFLOPS",
+        "Double Precision": "1478.4 GFLOPS",
+        "Single Precision": "23.65 TFLOPS",
+        "BIOS 2 Single Precision": "23.96 TFLOPS"
+      }
+    },
+    "Design": {
+      "Slot Width": "Triple Slot",
+      "Dimensions": "13 inches (330 mm) x 5.52 inches (140.2 mm)",
+      "Card Height": "140.2 mm, 5.52 inches",
+      "Card Length": "330 mm, 13 inches"
+    },
+    "Power": {
+      "Max Power Draw": "300 W",
+      "Max Power Draw_W": 300
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "Power Connectors": "2 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4a",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "2 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "Clock Speed": "2000 MHz",
+      "Size": "16 GB",
+      "Memory Bandwidth": "512 GB/s",
+      "Effective Memory Clock": "16000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 2000
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226a688",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "ASUS ASUS TUF GAMING Radeon RX 6900 XT",
+      "Architecture": "Navi 21 XTX (215-121000167), RDNA 2.0",
+      "Graphics Clock": "1825 MHz",
+      "Memory": "16 GB GDDR6 at 2000 MHz",
+      "Fill Rates": "Texture: 739.2 / 748.8 Gigatexels/s, Pixel: 295.68 / 299.52 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Triple Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226df2d",
+    "Product": {
+      "Manufacturer": "NVIDIA",
+      "Market Segment": "Desktop",
+      "Category": "GPUs",
+      "Model": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Version": "",
+      "english_id": "646f83b581980c969226df2d",
+      "Brand": "NVIDIA",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1590 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Card Length": null,
+      "Card Height": null
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "Power Connectors": "",
+      "Display Connectors_Array": [
+        "DisplayPort 1.4",
+        "Dual Link DVI-D",
+        "HDMI"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Price": {
+      "Launch Price": "$149",
+      "MSRP": null
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "89.04 Gigatexels/s",
+        "Pixel Fill Rate": "50.88 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "89.04 GFLOPS",
+        "Single Precision": "2849.28 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max DVI Resolution": "2560 x 1600",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "english_id": "646f83b581980c969226df2d",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "NVIDIA NVIDIA GeForce GTX 1650 GDDR6",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 89.04 Gigatexels/s, Pixel: 50.88 Gigapixels/s",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226b071",
+    "Product": {
+      "Part Number": "08G-P5-3665-KR",
+      "Manufacturer": "EVGA",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce RTX 3060 Ti",
+      "Category": "GPUs",
+      "Model": "EVGA GeForce RTX 3060 Ti FTW3 GAMING",
+      "Version": "08G-P5-3665-KR",
+      "english_id": "646f83b581980c969226b071",
+      "Brand": "EVGA",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "152",
+        "RT Cores": "38",
+        "CUDA Cores": "4864",
+        "ROPs": "80",
+        "Tensor Cores": "152",
+        "SM Count": "38"
+      },
+      "CUDA Version": "8.6",
+      "Clock Frequencies": {
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1710 MHz"
+      },
+      "Architecture": {
+        "Die Name": "GA104-200-A1",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "17.4 billion",
+        "Architecture": "Ampere",
+        "Fabrication Process": "8 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Triple Slot",
+      "Dimensions": "11.23 inches (285.4 mm) x 4.38 inches (111.15 mm)",
+      "Card Height": "111.15 mm, 4.38 inches",
+      "Card Length": "285.4 mm, 11.23 inches"
+    },
+    "Power": {
+      "Max Power Draw": "200 W",
+      "Max Power Draw_W": 200
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "Power Connectors": "2 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4a",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "2 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "L2 Cache": "4 MB",
+      "Clock Speed": "1750 MHz",
+      "Size": "8 GB",
+      "Memory Bandwidth": "448 GB/s",
+      "Effective Memory Clock": "14 GHz",
+      "Type": "GDDR6",
+      "L1 Cache": "128 KB per SM",
+      "Clock Speed_MHz": 1750
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "259.92 Gigatexels/s",
+        "Pixel Fill Rate": "136.8 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "259.92 GFLOPS",
+        "Single Precision": "16.63 TFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.3, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226b071",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "EVGA EVGA GeForce RTX 3060 Ti FTW3 GAMING",
+      "Architecture": "GA104-200-A1, Ampere",
+      "Memory": "8 GB GDDR6 at 1750 MHz",
+      "Fill Rates": "Texture: 259.92 Gigatexels/s, Pixel: 136.8 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Triple Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226aa68",
+    "Product": {
+      "Part Number": "Radeon RX 6900 XT 16G",
+      "Manufacturer": "ASRock",
+      "Market Segment": "Desktop",
+      "GPU Base": "AMD Radeon RX 6900 XT",
+      "Category": "GPUs",
+      "Model": "ASRock Radeon RX 6900 XT 16G",
+      "Version": "Radeon RX 6900 XT 16G",
+      "english_id": "646f83b581980c969226aa68",
+      "Brand": "ASRock",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "320",
+        "RT Cores": "80",
+        "Stream Processors": "5120"
+      },
+      "Clock Frequencies": {
+        "Graphics Clock": "1825 MHz",
+        "Boost Clock": "2250 MHz",
+        "Game Clock": "2015 MHz"
+      },
+      "Architecture": {
+        "Die Name": "Navi 21 XTX (215-121000167)",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "26.8 billion",
+        "Architecture": "RDNA 2.0",
+        "Fabrication Process": "7 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.1",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Display": {
+      "Technologies": {
+        "Color ROPs": "128",
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "HDCP 2.3, High Dynamic Range (HDR) Support"
+      },
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 3112",
+        "Max DisplayPort Resolution": "7680 x 4320",
+        "Max Monitors Supported": "Up to 4 displays"
+      }
+    },
+    "Performance": {
+      "Additional Performance Metrics": {
+        "Compute Units": "80"
+      },
+      "Fill Rates": {
+        "Texture Fill Rate": "720.0 Gigatexels/s",
+        "Pixel Fill Rate": "288.0 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "1440 GFLOPS",
+        "Single Precision": "23.04 TFLOPS"
+      }
+    },
+    "Design": {
+      "Slot Width": "Triple Slot",
+      "Dimensions": "10.5 inches (266.7 mm) x 4.72 inches (120 mm)",
+      "Card Height": "120 mm, 4.72 inches",
+      "Card Length": "266.7 mm, 10.5 inches"
+    },
+    "Power": {
+      "Max Power Draw": "300 W",
+      "Max Power Draw_W": 300
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "2 x DisplayPort 1.4a, HDMI, USB Type-C",
+      "Power Connectors": "2 x 8-pin",
+      "Display Connectors_Array": [
+        "2 x DisplayPort 1.4a",
+        "HDMI",
+        "USB Type-C"
+      ],
+      "Power Connectors_Array": [
+        "2 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "Clock Speed": "2000 MHz",
+      "Size": "16 GB",
+      "Memory Bandwidth": "512 GB/s",
+      "Effective Memory Clock": "16000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 2000
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226aa68",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "ASRock ASRock Radeon RX 6900 XT 16G",
+      "Architecture": "Navi 21 XTX (215-121000167), RDNA 2.0",
+      "Graphics Clock": "1825 MHz",
+      "Memory": "16 GB GDDR6 at 2000 MHz",
+      "Fill Rates": "Texture: 720.0 Gigatexels/s, Pixel: 288.0 Gigapixels/s",
+      "Display Connectors": "2 x DisplayPort 1.4a, HDMI, USB Type-C",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Triple Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226b723",
+    "Product": {
+      "Part Number": "36ISL6MD1VDD",
+      "Manufacturer": "Galax",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce RTX 3060 Ti",
+      "Category": "GPUs",
+      "Model": "Galax GeForce RTX 3060 Ti (1-Click OC)",
+      "Version": "36ISL6MD1VDD",
+      "english_id": "646f83b581980c969226b723",
+      "Brand": "Galax",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "152",
+        "RT Cores": "38",
+        "CUDA Cores": "4864",
+        "ROPs": "80",
+        "Tensor Cores": "152",
+        "SM Count": "38"
+      },
+      "CUDA Version": "8.6",
+      "Clock Frequencies": {
+        "BIOS 2 Boost Clock": "1680 MHz",
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1665 MHz"
+      },
+      "Architecture": {
+        "Die Name": "GA104-200-A1",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "17.4 billion",
+        "Architecture": "Ampere",
+        "Fabrication Process": "8 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "9.55 inches (242.5 mm) x 4.67 inches (118.65 mm)",
+      "Card Height": "118.65 mm, 4.67 inches",
+      "Card Length": "242.5 mm, 9.55 inches"
+    },
+    "Power": {
+      "Max Power Draw": "200 W",
+      "Max Power Draw_W": 200
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "Power Connectors": "1 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4a",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "L2 Cache": "4 MB",
+      "Clock Speed": "1750 MHz",
+      "Size": "8 GB",
+      "Memory Bandwidth": "448 GB/s",
+      "Effective Memory Clock": "14 GHz",
+      "Type": "GDDR6",
+      "L1 Cache": "128 KB per SM",
+      "Clock Speed_MHz": 1750
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "253.08 / 255.36 Gigatexels/s",
+        "Pixel Fill Rate": "133.2 / 134.4 Gigapixels/s"
+      },
+      "Compute Power": {
+        "BIOS 2 Double Precision": "255.36 GFLOPS",
+        "Double Precision": "253.08 GFLOPS",
+        "Single Precision": "16.20 TFLOPS",
+        "BIOS 2 Single Precision": "16.34 TFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.3, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226b723",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "Galax Galax GeForce RTX 3060 Ti (1-Click OC)",
+      "Architecture": "GA104-200-A1, Ampere",
+      "Memory": "8 GB GDDR6 at 1750 MHz",
+      "Fill Rates": "Texture: 253.08 / 255.36 Gigatexels/s, Pixel: 133.2 / 134.4 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226b795",
+    "Product": {
+      "Part Number": "65SQL8DS66SS",
+      "Manufacturer": "Galax",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "Galax GeForce GTX 1650 (1-Click OC) GDDR6",
+      "Version": "65SQL8DS66SS",
+      "english_id": "646f83b581980c969226b795",
+      "Brand": "Galax",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "BIOS 2 Boost Clock": "1605 MHz",
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1590 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "7.12 inches (181 mm) x 3.82 inches (97 mm)",
+      "Card Height": "97 mm, 3.82 inches",
+      "Card Length": "181 mm, 7.12 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "Power Connectors": "",
+      "Display Connectors_Array": [
+        "DisplayPort 1.4",
+        "Dual Link DVI-D",
+        "HDMI"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "89.04 / 89.88 Gigatexels/s",
+        "Pixel Fill Rate": "50.88 / 51.36 Gigapixels/s"
+      },
+      "Compute Power": {
+        "BIOS 2 Double Precision": "89.88 GFLOPS",
+        "Double Precision": "89.04 GFLOPS",
+        "Single Precision": "2849.28 GFLOPS",
+        "BIOS 2 Single Precision": "2876.16 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max DVI Resolution": "2560 x 1600",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226b795",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "Galax Galax GeForce GTX 1650 (1-Click OC) GDDR6",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 89.04 / 89.88 Gigatexels/s, Pixel: 50.88 / 51.36 Gigapixels/s",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226c19f",
+    "Product": {
+      "Part Number": "N16501-04D6-1177VA19",
+      "Manufacturer": "Inno3D",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "Inno3D GeForce GTX 1650 GDDR6 Compact",
+      "Version": "N16501-04D6-1177VA19",
+      "english_id": "646f83b581980c969226c19f",
+      "Brand": "Inno3D",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1590 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "6.30 inches (160 mm) x 4.57 inches (116 mm)",
+      "Card Height": "116 mm, 4.57 inches",
+      "Card Length": "160 mm, 6.30 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "2 x DisplayPort 1.4, HDMI",
+      "Power Connectors": "",
+      "Display Connectors_Array": [
+        "2 x DisplayPort 1.4",
+        "HDMI"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "89.04 Gigatexels/s",
+        "Pixel Fill Rate": "50.88 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "89.04 GFLOPS",
+        "Single Precision": "2849.28 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226c19f",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "Inno3D Inno3D GeForce GTX 1650 GDDR6 Compact",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 89.04 Gigatexels/s, Pixel: 50.88 Gigapixels/s",
+      "Display Connectors": "2 x DisplayPort 1.4, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226a716",
+    "Product": {
+      "Part Number": "RX6900XT-16G",
+      "Manufacturer": "ASUS",
+      "Market Segment": "Desktop",
+      "GPU Base": "AMD Radeon RX 6900 XT",
+      "Category": "GPUs",
+      "Model": "ASUS Radeon RX 6900 XT",
+      "Version": "RX6900XT-16G",
+      "english_id": "646f83b581980c969226a716",
+      "Brand": "ASUS",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "320",
+        "RT Cores": "80",
+        "Stream Processors": "5120"
+      },
+      "Clock Frequencies": {
+        "Graphics Clock": "1825 MHz",
+        "Boost Clock": "2250 MHz",
+        "Game Clock": "2015 MHz"
+      },
+      "Architecture": {
+        "Die Name": "Navi 21 XTX (215-121000167)",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "26.8 billion",
+        "Architecture": "RDNA 2.0",
+        "Fabrication Process": "7 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.1",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Display": {
+      "Technologies": {
+        "Color ROPs": "128",
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "HDCP 2.3, High Dynamic Range (HDR) Support"
+      },
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 3112",
+        "Max DisplayPort Resolution": "7680 x 4320",
+        "Max Monitors Supported": "Up to 4 displays"
+      }
+    },
+    "Performance": {
+      "Additional Performance Metrics": {
+        "Compute Units": "80"
+      },
+      "Fill Rates": {
+        "Texture Fill Rate": "720.0 Gigatexels/s",
+        "Pixel Fill Rate": "288.0 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "1440 GFLOPS",
+        "Single Precision": "23.04 TFLOPS"
+      }
+    },
+    "Design": {
+      "Slot Width": "Triple Slot",
+      "Dimensions": "10.5 inches (266.7 mm) x 4.72 inches (120 mm)",
+      "Card Height": "120 mm, 4.72 inches",
+      "Card Length": "266.7 mm, 10.5 inches"
+    },
+    "Power": {
+      "Max Power Draw": "300 W",
+      "Max Power Draw_W": 300
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "2 x DisplayPort 1.4a, HDMI, USB Type-C",
+      "Power Connectors": "2 x 8-pin",
+      "Display Connectors_Array": [
+        "2 x DisplayPort 1.4a",
+        "HDMI",
+        "USB Type-C"
+      ],
+      "Power Connectors_Array": [
+        "2 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "Clock Speed": "2000 MHz",
+      "Size": "16 GB",
+      "Memory Bandwidth": "512 GB/s",
+      "Effective Memory Clock": "16000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 2000
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226a716",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "ASUS ASUS Radeon RX 6900 XT",
+      "Architecture": "Navi 21 XTX (215-121000167), RDNA 2.0",
+      "Graphics Clock": "1825 MHz",
+      "Memory": "16 GB GDDR6 at 2000 MHz",
+      "Fill Rates": "Texture: 720.0 Gigatexels/s, Pixel: 288.0 Gigapixels/s",
+      "Display Connectors": "2 x DisplayPort 1.4a, HDMI, USB Type-C",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Triple Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226b5db",
+    "Product": {
+      "Part Number": "GV-N1656OC-4GD",
+      "Manufacturer": "GIGABYTE",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "GIGABYTE GeForce GTX 1650 D6 OC 4G",
+      "Version": "GV-N1656OC-4GD",
+      "english_id": "646f83b581980c969226b5db",
+      "Brand": "GIGABYTE",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Boost Clock": "1635 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "5.98 inches (152 mm) x 4.49 inches (114 mm)",
+      "Card Height": "114 mm, 4.49 inches",
+      "Card Length": "152 mm, 5.98 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "Power Connectors": "",
+      "Display Connectors_Array": [
+        "DisplayPort 1.4",
+        "Dual Link DVI-D",
+        "HDMI"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "91.56 Gigatexels/s",
+        "Pixel Fill Rate": "52.32 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "91.56 GFLOPS",
+        "Single Precision": "2929.92 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max DVI Resolution": "2560 x 1600",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226b5db",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "GIGABYTE GIGABYTE GeForce GTX 1650 D6 OC 4G",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 91.56 Gigatexels/s, Pixel: 52.32 Gigapixels/s",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226d7c8",
+    "Product": {
+      "Manufacturer": "MSI",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "MSI GeForce GTX 1650 D6 AERO ITX",
+      "Version": "",
+      "english_id": "646f83b581980c969226d7c8",
+      "Brand": "MSI",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1590 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "6.69 inches (170 mm) x 4.376 inches (111 mm)",
+      "Card Height": "111 mm, 4.376 inches",
+      "Card Length": "170 mm, 6.69 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "Power Connectors": "",
+      "Display Connectors_Array": [
+        "DisplayPort 1.4",
+        "Dual Link DVI-D",
+        "HDMI"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "89.04 Gigatexels/s",
+        "Pixel Fill Rate": "50.88 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "89.04 GFLOPS",
+        "Single Precision": "2849.28 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max DVI Resolution": "2560 x 1600",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226d7c8",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "MSI MSI GeForce GTX 1650 D6 AERO ITX",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 89.04 Gigatexels/s, Pixel: 50.88 Gigapixels/s",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226beb8",
+    "Product": {
+      "Part Number": "NE6306TT19P2-1041X (Barcode: 471056224-2256)",
+      "Manufacturer": "Gainward",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce RTX 3060 Ti",
+      "Category": "GPUs",
+      "Model": "Gainward GeForce RTX 3060 Ti Phoenix â€œGSâ€",
+      "Version": "NE6306TT19P2-1041X (Barcode: 471056224-2256)",
+      "english_id": "646f83b581980c969226beb8",
+      "Brand": "Gainward",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "152",
+        "RT Cores": "38",
+        "CUDA Cores": "4864",
+        "ROPs": "80",
+        "Tensor Cores": "152",
+        "SM Count": "38"
+      },
+      "CUDA Version": "8.6",
+      "Clock Frequencies": {
+        "Boost Clock": "1800 MHz"
+      },
+      "Architecture": {
+        "Die Name": "GA104-200-A1",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "17.4 billion",
+        "Architecture": "Ampere",
+        "Fabrication Process": "8 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Triple Slot",
+      "Dimensions": "11.57 inches (294 mm) x 4.41 inches (112 mm)",
+      "Card Height": "112 mm, 4.41 inches",
+      "Card Length": "294 mm, 11.57 inches"
+    },
+    "Power": {
+      "Max Power Draw": "200 W",
+      "Max Power Draw_W": 200
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "Power Connectors": "2 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4a",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "2 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "L2 Cache": "4 MB",
+      "Clock Speed": "1750 MHz",
+      "Size": "8 GB",
+      "Memory Bandwidth": "448 GB/s",
+      "Effective Memory Clock": "14 GHz",
+      "Type": "GDDR6",
+      "L1 Cache": "128 KB per SM",
+      "Clock Speed_MHz": 1750
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "273.6 Gigatexels/s",
+        "Pixel Fill Rate": "144 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "273.6 GFLOPS",
+        "Single Precision": "17.51 TFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.3, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226beb8",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "Gainward Gainward GeForce RTX 3060 Ti Phoenix â€œGSâ€",
+      "Architecture": "GA104-200-A1, Ampere",
+      "Memory": "8 GB GDDR6 at 1750 MHz",
+      "Fill Rates": "Texture: 273.6 Gigatexels/s, Pixel: 144 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Triple Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226db15",
+    "Product": {
+      "Manufacturer": "AMD",
+      "Market Segment": "Desktop",
+      "Category": "GPUs",
+      "Model": "AMD Radeon RX 590 GME",
+      "Version": "",
+      "english_id": "646f83b581980c969226db15",
+      "Brand": "AMD",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "144",
+        "Stream Processors": "2304"
+      },
+      "Clock Frequencies": {
+        "Graphics Clock": "1275 MHz",
+        "Boost Clock": "1380 MHz"
+      },
+      "Architecture": {
+        "Die Name": "Polaris 20 XTR",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "5.7 billion",
+        "Architecture": "Graphics Core Next 4.0",
+        "Fabrication Process": "14 nm"
+      },
+      "API": {
+        "Mantle Support": "Present",
+        "Vulkan Support": "1.2.131",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Display": {
+      "Technologies": {
+        "Color ROPs": "32",
+        "Max CrossFire Configuration": "2-way",
+        "Anti-Aliasing Technologies": "24 x MSAA, 24 x SSAA, Adaptive AA, EQAA, MLAA 2.0",
+        "Decoders": "Adobe Flash, DXVA 1.0 &amp; 2.0, H.264, MPEG 2 (SH &amp; HD), MPEG-4 Part 2 (DivX/Xvid), MVC (Blu-ray 3D), VC-1, WMV HD",
+        "Additional Features": "Direct Compute 12, AMD PowerTune, AMD ZeroCore Power, ATI/AMD PowerPlay, HD3D Technology, HDCP, High Dynamic Range (HDR) Support"
+      },
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 3112",
+        "Max DisplayPort Resolution": "7680 x 4320",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320"
+      }
+    },
+    "Performance": {
+      "Additional Performance Metrics": {
+        "Compute Units": "36"
+      },
+      "Fill Rates": {
+        "Texture Fill Rate": "198.72 Gigatexels/s",
+        "Pixel Fill Rate": "44.16 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "397.44 GFLOPS",
+        "Single Precision": "6359.04 GFLOPS"
+      }
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Card Length": null,
+      "Card Height": null
+    },
+    "Power": {
+      "Max Power Draw": "175 W",
+      "Max Power Draw_W": 175
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4, HDMI",
+      "Power Connectors": "1 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "Clock Speed": "2000 MHz",
+      "Size": "8192 MB",
+      "Memory Bandwidth": "256 GB/s",
+      "Effective Memory Clock": "8000 MHz",
+      "Type": "GDDR5",
+      "Clock Speed_MHz": 2000
+    },
+    "Price": {
+      "Launch Price": "$279",
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226db15",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "AMD AMD Radeon RX 590 GME",
+      "Architecture": "Polaris 20 XTR, Graphics Core Next 4.0",
+      "Graphics Clock": "1275 MHz",
+      "Memory": "8192 MB GDDR5 at 2000 MHz",
+      "Fill Rates": "Texture: 198.72 Gigatexels/s, Pixel: 44.16 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226c48e",
+    "Product": {
+      "Part Number": "NE6165001BG1-1175A",
+      "Manufacturer": "Palit",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "Palit GeForce GTX 1650 GP",
+      "Version": "NE6165001BG1-1175A",
+      "english_id": "646f83b581980c969226c48e",
+      "Brand": "Palit",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1590 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "6.69 inches (170 mm) x 4.41 inches (112 mm)",
+      "Card Height": "112 mm, 4.41 inches",
+      "Card Length": "170 mm, 6.69 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "2 x DisplayPort 1.4, HDMI",
+      "Power Connectors": "1 x 6-pin",
+      "Display Connectors_Array": [
+        "2 x DisplayPort 1.4",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 6-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "89.04 Gigatexels/s",
+        "Pixel Fill Rate": "50.88 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "89.04 GFLOPS",
+        "Single Precision": "2849.28 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226c48e",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "Palit Palit GeForce GTX 1650 GP",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 89.04 Gigatexels/s, Pixel: 50.88 Gigapixels/s",
+      "Display Connectors": "2 x DisplayPort 1.4, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226d7c0",
+    "Product": {
+      "Manufacturer": "MSI",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "MSI GeForce GTX 1650 D6 VENTUS XS",
+      "Version": "",
+      "english_id": "646f83b581980c969226d7c0",
+      "Brand": "MSI",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1590 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "7.01 inches (178 mm) x 4.376 inches (111 mm)",
+      "Card Height": "111 mm, 4.376 inches",
+      "Card Length": "178 mm, 7.01 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "Power Connectors": "",
+      "Display Connectors_Array": [
+        "DisplayPort 1.4",
+        "Dual Link DVI-D",
+        "HDMI"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "89.04 Gigatexels/s",
+        "Pixel Fill Rate": "50.88 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "89.04 GFLOPS",
+        "Single Precision": "2849.28 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max DVI Resolution": "2560 x 1600",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226d7c0",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "MSI MSI GeForce GTX 1650 D6 VENTUS XS",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 89.04 Gigatexels/s, Pixel: 50.88 Gigapixels/s",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226af33",
+    "Product": {
+      "Manufacturer": "AMD",
+      "Market Segment": "Desktop",
+      "Category": "GPUs",
+      "Model": "AMD Radeon RX 5600 OEM",
+      "Version": "",
+      "english_id": "646f83b581980c969226af33",
+      "Brand": "AMD",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "128",
+        "Stream Processors": "2048"
+      },
+      "Clock Frequencies": {
+        "Graphics Clock": "1130 MHz",
+        "Boost Clock": "1560 MHz"
+      },
+      "Architecture": {
+        "Die Name": "Navi 10 XE",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "10.3 billion",
+        "Architecture": "RDNA 1.0",
+        "Fabrication Process": "7 nm"
+      },
+      "API": {
+        "Mantle Support": "Present",
+        "Vulkan Support": "1.1.125",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Display": {
+      "Technologies": {
+        "Color ROPs": "64",
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "Direct Compute 12, AMD PowerTune, AMD ZeroCore Power, ATI/AMD PowerPlay, HD3D Technology, HDCP 2.3, High Dynamic Range (HDR) Support"
+      },
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 3112",
+        "Max DisplayPort Resolution": "7680 x 4320",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320"
+      }
+    },
+    "Performance": {
+      "Additional Performance Metrics": {
+        "Compute Units": "32"
+      },
+      "Fill Rates": {
+        "Texture Fill Rate": "199.68 Gigatexels/s",
+        "Pixel Fill Rate": "99.84 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "399.36 GFLOPS",
+        "Single Precision": "6389.76 GFLOPS"
+      }
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Card Height": null,
+      "Card Length": null
+    },
+    "Power": {
+      "Max Power Draw": "150 W",
+      "Max Power Draw_W": 150
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4, HDMI",
+      "Power Connectors": "1 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "192 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "6144 MB",
+      "Memory Bandwidth": "288 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226af33",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "AMD AMD Radeon RX 5600 OEM",
+      "Architecture": "Navi 10 XE, RDNA 1.0",
+      "Graphics Clock": "1130 MHz",
+      "Memory": "6144 MB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 199.68 Gigatexels/s, Pixel: 99.84 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226af24",
+    "Product": {
+      "Manufacturer": "AMD",
+      "Market Segment": "Desktop",
+      "Category": "GPUs",
+      "Model": "AMD Radeon RX 6900 XT",
+      "Version": "",
+      "english_id": "646f83b581980c969226af24",
+      "Brand": "AMD",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "320",
+        "RT Cores": "80",
+        "Stream Processors": "5120"
+      },
+      "Clock Frequencies": {
+        "Graphics Clock": "1825 MHz",
+        "Boost Clock": "2250 MHz",
+        "Game Clock": "2015 MHz"
+      },
+      "Architecture": {
+        "Die Name": "Navi 21 XTX (215-121000167)",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "26.8 billion",
+        "Architecture": "RDNA 2.0",
+        "Fabrication Process": "7 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.1",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Display": {
+      "Technologies": {
+        "Color ROPs": "128",
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "HDCP 2.3, High Dynamic Range (HDR) Support"
+      },
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 3112",
+        "Max DisplayPort Resolution": "7680 x 4320",
+        "Max Monitors Supported": "Up to 4 displays"
+      }
+    },
+    "Performance": {
+      "Additional Performance Metrics": {
+        "Compute Units": "80"
+      },
+      "Fill Rates": {
+        "Texture Fill Rate": "720.0 Gigatexels/s",
+        "Pixel Fill Rate": "288.0 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "1440 GFLOPS",
+        "Single Precision": "23.04 TFLOPS"
+      }
+    },
+    "Design": {
+      "Slot Width": "Triple Slot",
+      "Dimensions": "10.5 inches (266.7 mm) x 4.72 inches (120 mm)",
+      "Card Height": "120 mm, 4.72 inches",
+      "Card Length": "266.7 mm, 10.5 inches"
+    },
+    "Power": {
+      "Max Power Draw": "300 W",
+      "Max Power Draw_W": 300
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "2 x DisplayPort 1.4a, HDMI, USB Type-C",
+      "Power Connectors": "2 x 8-pin",
+      "Display Connectors_Array": [
+        "2 x DisplayPort 1.4a",
+        "HDMI",
+        "USB Type-C"
+      ],
+      "Power Connectors_Array": [
+        "2 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "Clock Speed": "2000 MHz",
+      "Size": "16 GB",
+      "Memory Bandwidth": "512 GB/s",
+      "Effective Memory Clock": "16000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 2000
+    },
+    "Price": {
+      "Launch Price": "$999",
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226af24",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "AMD AMD Radeon RX 6900 XT",
+      "Architecture": "Navi 21 XTX (215-121000167), RDNA 2.0",
+      "Graphics Clock": "1825 MHz",
+      "Memory": "16 GB GDDR6 at 2000 MHz",
+      "Fill Rates": "Texture: 720.0 Gigatexels/s, Pixel: 288.0 Gigapixels/s",
+      "Display Connectors": "2 x DisplayPort 1.4a, HDMI, USB Type-C",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Triple Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226b724",
+    "Product": {
+      "Part Number": "36ISL6MD1XHH",
+      "Manufacturer": "Galax",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce RTX 3060 Ti",
+      "Category": "GPUs",
+      "Model": "Galax GeForce RTX 3060 Ti EX White (1-Click OC)",
+      "Version": "36ISL6MD1XHH",
+      "english_id": "646f83b581980c969226b724",
+      "Brand": "Galax",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "152",
+        "RT Cores": "38",
+        "CUDA Cores": "4864",
+        "ROPs": "80",
+        "Tensor Cores": "152",
+        "SM Count": "38"
+      },
+      "CUDA Version": "8.6",
+      "Clock Frequencies": {
+        "BIOS 2 Boost Clock": "1710 MHz",
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1695 MHz"
+      },
+      "Architecture": {
+        "Die Name": "GA104-200-A1",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "17.4 billion",
+        "Architecture": "Ampere",
+        "Fabrication Process": "8 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Triple Slot",
+      "Dimensions": "11.22 inches (285 mm) x 4.88 inches (124 mm)",
+      "Card Height": "124 mm, 4.88 inches",
+      "Card Length": "285 mm, 11.22 inches"
+    },
+    "Power": {
+      "Max Power Draw": "200 W",
+      "Max Power Draw_W": 200
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "Power Connectors": "1 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4a",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "L2 Cache": "4 MB",
+      "Clock Speed": "1750 MHz",
+      "Size": "8 GB",
+      "Memory Bandwidth": "448 GB/s",
+      "Effective Memory Clock": "14 GHz",
+      "Type": "GDDR6",
+      "L1 Cache": "128 KB per SM",
+      "Clock Speed_MHz": 1750
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "257.64 / 259.92 Gigatexels/s",
+        "Pixel Fill Rate": "135.6 / 136.8 Gigapixels/s"
+      },
+      "Compute Power": {
+        "BIOS 2 Double Precision": "259.92 GFLOPS",
+        "Double Precision": "257.64 GFLOPS",
+        "Single Precision": "16.49 TFLOPS",
+        "BIOS 2 Single Precision": "16.63 TFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.3, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226b724",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "Galax Galax GeForce RTX 3060 Ti EX White (1-Click OC)",
+      "Architecture": "GA104-200-A1, Ampere",
+      "Memory": "8 GB GDDR6 at 1750 MHz",
+      "Fill Rates": "Texture: 257.64 / 259.92 Gigatexels/s, Pixel: 135.6 / 136.8 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Triple Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226bf54",
+    "Product": {
+      "Part Number": "NE61650S1BG1-1175D (Barcode: 471056224-1785)",
+      "Manufacturer": "Gainward",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "Gainward GeForce GTX 1650 D6 Ghost OC",
+      "Version": "NE61650S1BG1-1175D (Barcode: 471056224-1785)",
+      "english_id": "646f83b581980c969226bf54",
+      "Brand": "Gainward",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Boost Clock": "1725 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "6.69 inches (170 mm) x 4.41 inches (112 mm)",
+      "Card Height": "112 mm, 4.41 inches",
+      "Card Length": "170 mm, 6.69 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "2 x DisplayPort 1.4, HDMI",
+      "Power Connectors": "1 x 6-pin",
+      "Display Connectors_Array": [
+        "2 x DisplayPort 1.4",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 6-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "96.6 Gigatexels/s",
+        "Pixel Fill Rate": "55.2 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "96.6 GFLOPS",
+        "Single Precision": "3091.2 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226bf54",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "Gainward Gainward GeForce GTX 1650 D6 Ghost OC",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 96.6 Gigatexels/s, Pixel: 55.2 Gigapixels/s",
+      "Display Connectors": "2 x DisplayPort 1.4, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226b78e",
+    "Product": {
+      "Part Number": "65SQL8DS67PY",
+      "Manufacturer": "Galax",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "Galax GeForce GTX 1650 Prodigy GDDR6",
+      "Version": "65SQL8DS67PY",
+      "english_id": "646f83b581980c969226b78e",
+      "Brand": "Galax",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1590 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "7.12 inches (181 mm) x 3.82 inches (97 mm)",
+      "Card Height": "97 mm, 3.82 inches",
+      "Card Length": "181 mm, 7.12 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "Power Connectors": "",
+      "Display Connectors_Array": [
+        "DisplayPort 1.4",
+        "Dual Link DVI-D",
+        "HDMI"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "89.04 Gigatexels/s",
+        "Pixel Fill Rate": "50.88 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "89.04 GFLOPS",
+        "Single Precision": "2849.28 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max DVI Resolution": "2560 x 1600",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226b78e",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "Galax Galax GeForce GTX 1650 Prodigy GDDR6",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 89.04 Gigatexels/s, Pixel: 50.88 Gigapixels/s",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226d177",
+    "Product": {
+      "Part Number": "08G-P5-3663-KR",
+      "Manufacturer": "EVGA",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce RTX 3060 Ti",
+      "Category": "GPUs",
+      "Model": "EVGA GeForce RTX 3060 Ti XC GAMING",
+      "Version": "08G-P5-3663-KR",
+      "english_id": "646f83b581980c969226d177",
+      "Brand": "EVGA",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "152",
+        "RT Cores": "38",
+        "CUDA Cores": "4864",
+        "ROPs": "80",
+        "Tensor Cores": "152",
+        "SM Count": "38"
+      },
+      "CUDA Version": "8.6",
+      "Clock Frequencies": {
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1710 MHz"
+      },
+      "Architecture": {
+        "Die Name": "GA104-200-A1",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "17.4 billion",
+        "Architecture": "Ampere",
+        "Fabrication Process": "8 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "7.94 inches (201.8 mm) x 4.33 inches (110 mm)",
+      "Card Height": "110 mm, 4.33 inches",
+      "Card Length": "201.8 mm, 7.94 inches"
+    },
+    "Power": {
+      "Max Power Draw": "200 W",
+      "Max Power Draw_W": 200
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "Power Connectors": "1 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4a",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "L2 Cache": "4 MB",
+      "Clock Speed": "1750 MHz",
+      "Size": "8 GB",
+      "Memory Bandwidth": "448 GB/s",
+      "Effective Memory Clock": "14 GHz",
+      "Type": "GDDR6",
+      "L1 Cache": "128 KB per SM",
+      "Clock Speed_MHz": 1750
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "259.92 Gigatexels/s",
+        "Pixel Fill Rate": "136.8 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "259.92 GFLOPS",
+        "Single Precision": "16.63 TFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.3, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226d177",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "EVGA EVGA GeForce RTX 3060 Ti XC GAMING",
+      "Architecture": "GA104-200-A1, Ampere",
+      "Memory": "8 GB GDDR6 at 1750 MHz",
+      "Fill Rates": "Texture: 259.92 Gigatexels/s, Pixel: 136.8 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226c692",
+    "Product": {
+      "Part Number": "GV-N1656OC-4GD",
+      "Manufacturer": "GIGABYTE",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "GIGABYTE GeForce GTX 1650 D6 OC 4G (rev. 1.0)",
+      "Version": "GV-N1656OC-4GD",
+      "english_id": "646f83b581980c969226c692",
+      "Brand": "GIGABYTE",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Boost Clock": "1635 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "6.02 inches (153 mm) x 4.57 inches (116 mm)",
+      "Card Height": "116 mm, 4.57 inches",
+      "Card Length": "153 mm, 6.02 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "Power Connectors": "",
+      "Display Connectors_Array": [
+        "DisplayPort 1.4",
+        "Dual Link DVI-D",
+        "HDMI"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "91.56 Gigatexels/s",
+        "Pixel Fill Rate": "52.32 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "91.56 GFLOPS",
+        "Single Precision": "2929.92 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max DVI Resolution": "2560 x 1600",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226c692",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "GIGABYTE GIGABYTE GeForce GTX 1650 D6 OC 4G (rev. 1.0)",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 91.56 Gigatexels/s, Pixel: 52.32 Gigapixels/s",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226a6c5",
+    "Product": {
+      "Part Number": "ROG-STRIX-RX5600XT-T6G-GAMING",
+      "Manufacturer": "ASUS",
+      "Market Segment": "Desktop",
+      "GPU Base": "AMD Radeon RX 5600 XT",
+      "Category": "GPUs",
+      "Model": "ASUS ROG Strix Radeon RX 5600 XT TOP Edition",
+      "Version": "ROG-STRIX-RX5600XT-T6G-GAMING",
+      "english_id": "646f83b581980c969226a6c5",
+      "Brand": "ASUS",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "144",
+        "Stream Processors": "2304"
+      },
+      "Clock Frequencies": {
+        "BIOS 2 Boost Clock": "1770 MHz",
+        "Graphics Clock": "1530 MHz",
+        "Boost Clock": "1750 MHz",
+        "BIOS 2 Game Clock": "1670 MHz",
+        "Game Clock": "1670 MHz"
+      },
+      "Architecture": {
+        "Die Name": "Navi 10 XLE",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "10.3 billion",
+        "Architecture": "RDNA 1.0",
+        "Fabrication Process": "7 nm"
+      },
+      "API": {
+        "Mantle Support": "Present",
+        "Vulkan Support": "1.1.125",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Display": {
+      "Technologies": {
+        "Color ROPs": "64",
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "Direct Compute 12, AMD PowerTune, AMD ZeroCore Power, ATI/AMD PowerPlay, HD3D Technology, HDCP 2.3, High Dynamic Range (HDR) Support"
+      },
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 3112",
+        "Max DisplayPort Resolution": "7680 x 4320",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320"
+      }
+    },
+    "Performance": {
+      "Additional Performance Metrics": {
+        "Compute Units": "36"
+      },
+      "Fill Rates": {
+        "Texture Fill Rate": "252.0 / 254.88 Gigatexels/s",
+        "Pixel Fill Rate": "112.0 / 113.28 Gigapixels/s"
+      },
+      "Compute Power": {
+        "BIOS 2 Double Precision": "509.76 GFLOPS",
+        "Double Precision": "504.00 GFLOPS",
+        "Single Precision": "8064.00 GFLOPS",
+        "BIOS 2 Single Precision": "8156.16 GFLOPS"
+      }
+    },
+    "Design": {
+      "Slot Width": "Triple Slot",
+      "Dimensions": "11.96 inches (303.7 mm) x 5.12 inches (130 mm)",
+      "Card Height": "130 mm, 5.12 inches",
+      "Card Length": "303.7 mm, 11.96 inches"
+    },
+    "Power": {
+      "Max Power Draw": "150 W",
+      "Max Power Draw_W": 150
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4, HDMI",
+      "Power Connectors": "1 x 6-pin, 1 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 6-pin",
+        "1 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "192 bit",
+      "Clock Speed": "1750 MHz",
+      "Size": "6144 MB",
+      "Memory Bandwidth": "336 GB/s",
+      "Effective Memory Clock": "14000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1750
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226a6c5",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "ASUS ASUS ROG Strix Radeon RX 5600 XT TOP Edition",
+      "Architecture": "Navi 10 XLE, RDNA 1.0",
+      "Graphics Clock": "1530 MHz",
+      "Memory": "6144 MB GDDR6 at 1750 MHz",
+      "Fill Rates": "Texture: 252.0 / 254.88 Gigatexels/s, Pixel: 112.0 / 113.28 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Triple Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226e68d",
+    "Product": {
+      "Part Number": "ZT-T16520D-10L",
+      "Manufacturer": "ZOTAC",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "ZOTAC GeForce GTX 1650 AMP GDDR6",
+      "Version": "ZT-T16520D-10L",
+      "english_id": "646f83b581980c969226e68d",
+      "Brand": "ZOTAC",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Boost Clock": "1650 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "6.39 inches (162.4 mm) x 4.376 inches (111.15 mm)",
+      "Card Height": "111.15 mm, 4.376 inches",
+      "Card Length": "162.4 mm, 6.39 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "Power Connectors": "",
+      "Display Connectors_Array": [
+        "DisplayPort 1.4",
+        "Dual Link DVI-D",
+        "HDMI"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "92.4 Gigatexels/s",
+        "Pixel Fill Rate": "52.8 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "92.4 GFLOPS",
+        "Single Precision": "2956.8 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max DVI Resolution": "2560 x 1600",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226e68d",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "ZOTAC ZOTAC GeForce GTX 1650 AMP GDDR6",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 92.4 Gigatexels/s, Pixel: 52.8 Gigapixels/s",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226e77a",
+    "Product": {
+      "Manufacturer": "NVIDIA",
+      "Market Segment": "Desktop",
+      "PCB Number": "PG142 SKU 10",
+      "Category": "GPUs",
+      "Model": "NVIDIA GeForce RTX 3070",
+      "Version": "",
+      "english_id": "646f83b581980c969226e77a",
+      "Brand": "NVIDIA",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "184",
+        "RT Cores": "46",
+        "CUDA Cores": "5888",
+        "ROPs": "64",
+        "Tensor Cores": "184",
+        "SM Count": "46"
+      },
+      "CUDA Version": "8.5",
+      "Clock Frequencies": {
+        "Base Clock": "1500 MHz",
+        "Boost Clock": "1725 MHz"
+      },
+      "Architecture": {
+        "Die Name": "GA104-300-A1",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "17.4 billion",
+        "Architecture": "Ampere",
+        "Fabrication Process": "8 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "9.53 inches (242 mm) x 4.4 inches (112 mm)",
+      "Card Height": "112 mm, 4.4 inches",
+      "Card Length": "242 mm, 9.53 inches"
+    },
+    "Power": {
+      "Max Power Draw": "220 W",
+      "Max Power Draw_W": 220
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "Power Connectors": "2 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4a",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "2 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "L2 Cache": "4 MB",
+      "Clock Speed": "1750 MHz",
+      "Size": "10 GB",
+      "Memory Bandwidth": "448 GB/s",
+      "Effective Memory Clock": "14 GHz",
+      "Type": "GDDR6",
+      "L1 Cache": "128 KB per SM",
+      "Clock Speed_MHz": 1750
+    },
+    "Price": {
+      "Launch Price": "$499",
+      "MSRP": null
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "317.4 Gigatexels/s",
+        "Pixel Fill Rate": "110.4 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "634.8 GFLOPS",
+        "Single Precision": "20.31 TFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.3, PhysX"
+      }
+    },
+    "english_id": "646f83b581980c969226e77a",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "NVIDIA NVIDIA GeForce RTX 3070",
+      "Architecture": "GA104-300-A1, Ampere",
+      "Memory": "10 GB GDDR6 at 1750 MHz",
+      "Fill Rates": "Texture: 317.4 Gigatexels/s, Pixel: 110.4 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226af3d",
+    "Product": {
+      "Manufacturer": "AMD",
+      "Market Segment": "Desktop",
+      "Category": "GPUs",
+      "Model": "AMD Radeon RX 5300",
+      "Version": "",
+      "english_id": "646f83b581980c969226af3d",
+      "Brand": "AMD",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "88",
+        "Stream Processors": "1408"
+      },
+      "Clock Frequencies": {
+        "Graphics Clock": "1327 MHz",
+        "Boost Clock": "1645 MHz",
+        "Game Clock": "1448 MHz"
+      },
+      "Architecture": {
+        "Die Name": "Navi 14 XL",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "6.4 billion",
+        "Architecture": "RDNA 1.0",
+        "Fabrication Process": "7 nm"
+      },
+      "API": {
+        "Mantle Support": "Present",
+        "Vulkan Support": "1.1.121",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Display": {
+      "Technologies": {
+        "Color ROPs": "32",
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "Direct Compute 12, AMD PowerTune, AMD ZeroCore Power, ATI/AMD PowerPlay, HD3D Technology, HDCP 2.3, High Dynamic Range (HDR) Support"
+      },
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 3112",
+        "Max DisplayPort Resolution": "7680 x 4320",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320"
+      }
+    },
+    "Performance": {
+      "Additional Performance Metrics": {
+        "Compute Units": "22"
+      },
+      "Fill Rates": {
+        "Texture Fill Rate": "144.76 Gigatexels/s",
+        "Pixel Fill Rate": "52.64 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "289.52 GFLOPS",
+        "Single Precision": "4632.32 GFLOPS"
+      }
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Card Length": null,
+      "Card Height": null
+    },
+    "Power": {
+      "Max Power Draw": "100 W",
+      "Max Power Draw_W": 100
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4, HDMI",
+      "Power Connectors": "1 x 6-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 6-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "96 bit",
+      "L2 Cache": "2 MB",
+      "Clock Speed": "1750 MHz",
+      "Size": "3172 MB",
+      "Memory Bandwidth": "168 GB/s",
+      "Effective Memory Clock": "14000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1750
+    },
+    "Price": {
+      "Launch Price": "$129",
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226af3d",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "AMD AMD Radeon RX 5300",
+      "Architecture": "Navi 14 XL, RDNA 1.0",
+      "Graphics Clock": "1327 MHz",
+      "Memory": "3172 MB GDDR6 at 1750 MHz",
+      "Fill Rates": "Texture: 144.76 Gigatexels/s, Pixel: 52.64 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226ad45",
+    "Product": {
+      "Part Number": "GF-GTX1650D6-E4GB/DF2",
+      "Manufacturer": "Kuroutoshikou",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "Kuroutoshikou GeForce GTX 1650 GDDR6",
+      "Version": "GF-GTX1650D6-E4GB/DF2",
+      "english_id": "646f83b581980c969226ad45",
+      "Brand": "Kuroutoshikou",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Boost Clock": "1605 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "7.87 inches (200 mm) x 4.376 inches (111 mm)",
+      "Card Height": "111 mm, 4.376 inches",
+      "Card Length": "200 mm, 7.87 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "Power Connectors": "1 x 6-pin",
+      "Display Connectors_Array": [
+        "DisplayPort 1.4",
+        "Dual Link DVI-D",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 6-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "89.88 Gigatexels/s",
+        "Pixel Fill Rate": "51.36 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "89.88 GFLOPS",
+        "Single Precision": "2876.16 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max DVI Resolution": "2560 x 1600",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226ad45",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "Kuroutoshikou Kuroutoshikou GeForce GTX 1650 GDDR6",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 89.88 Gigatexels/s, Pixel: 51.36 Gigapixels/s",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226decb",
+    "Product": {
+      "Manufacturer": "NVIDIA",
+      "Market Segment": "Desktop",
+      "PCB Number": "PG132 SKU 30",
+      "Category": "GPUs",
+      "Model": "NVIDIA GeForce RTX 3090",
+      "Version": "",
+      "english_id": "646f83b581980c969226decb",
+      "Brand": "NVIDIA",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "328",
+        "RT Cores": "82",
+        "CUDA Cores": "10496",
+        "ROPs": "112",
+        "Tensor Cores": "328",
+        "SM Count": "82"
+      },
+      "CUDA Version": "8.5",
+      "Clock Frequencies": {
+        "Base Clock": "1395 MHz",
+        "Boost Clock": "1695 MHz"
+      },
+      "Architecture": {
+        "Die Name": "GA102-300-A1",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "28 billion",
+        "Architecture": "Ampere",
+        "Fabrication Process": "8 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Triple Slot",
+      "Dimensions": "12.3 inches (313 mm) x 5.4 inches (138 mm)",
+      "Card Height": "138 mm, 5.4 inches",
+      "Card Length": "313 mm, 12.3 inches"
+    },
+    "Power": {
+      "Max Power Draw": "350 W",
+      "Max Power Draw_W": 350
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "Power Connectors": "2 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4a",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "2 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "384 bit",
+      "L2 Cache": "6 MB",
+      "Clock Speed": "1219 MHz",
+      "Size": "24 GB",
+      "Memory Bandwidth": "936.19 GB/s",
+      "Effective Memory Clock": "19.5 GHz",
+      "Type": "GDDR6X",
+      "L1 Cache": "128 KB per SM",
+      "Clock Speed_MHz": 1219
+    },
+    "Price": {
+      "Launch Price": "$1499",
+      "MSRP": null
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "555.96 Gigatexels/s",
+        "Pixel Fill Rate": "189.84 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "1111.92 GFLOPS",
+        "Single Precision": "35.58 TFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.3, PhysX"
+      }
+    },
+    "english_id": "646f83b581980c969226decb",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "NVIDIA NVIDIA GeForce RTX 3090",
+      "Architecture": "GA102-300-A1, Ampere",
+      "Memory": "24 GB GDDR6X at 1219 MHz",
+      "Fill Rates": "Texture: 555.96 Gigatexels/s, Pixel: 189.84 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Triple Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226af27",
+    "Product": {
+      "Manufacturer": "AMD",
+      "Market Segment": "Desktop",
+      "Category": "GPUs",
+      "Model": "AMD Radeon RX 6800",
+      "Version": "",
+      "english_id": "646f83b581980c969226af27",
+      "Brand": "AMD",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "240",
+        "RT Cores": "60",
+        "Stream Processors": "3840"
+      },
+      "Clock Frequencies": {
+        "Graphics Clock": "1700 MHz",
+        "Boost Clock": "2105 MHz",
+        "Game Clock": "1815 MHz"
+      },
+      "Architecture": {
+        "Die Name": "Navi 21 XL (215-121000187)",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "26.8 billion",
+        "Architecture": "RDNA 2.0",
+        "Fabrication Process": "7 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.1",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Display": {
+      "Technologies": {
+        "Color ROPs": "96",
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "HDCP 2.3, High Dynamic Range (HDR) Support"
+      },
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 3112",
+        "Max DisplayPort Resolution": "7680 x 4320",
+        "Max Monitors Supported": "Up to 4 displays"
+      }
+    },
+    "Performance": {
+      "Additional Performance Metrics": {
+        "Compute Units": "60"
+      },
+      "Fill Rates": {
+        "Texture Fill Rate": "505.2 Gigatexels/s",
+        "Pixel Fill Rate": "202.08 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "1010.4 GFLOPS",
+        "Single Precision": "16.17 TFLOPS"
+      }
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "10.5 inches (266.7 mm) x 4.72 inches (120 mm)",
+      "Card Height": "120 mm, 4.72 inches",
+      "Card Length": "266.7 mm, 10.5 inches"
+    },
+    "Power": {
+      "Max Power Draw": "250 W",
+      "Max Power Draw_W": 250
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "2 x DisplayPort 1.4a, HDMI, USB Type-C",
+      "Power Connectors": "2 x 8-pin",
+      "Display Connectors_Array": [
+        "2 x DisplayPort 1.4a",
+        "HDMI",
+        "USB Type-C"
+      ],
+      "Power Connectors_Array": [
+        "2 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "Clock Speed": "2000 MHz",
+      "Size": "16 GB",
+      "Memory Bandwidth": "512 GB/s",
+      "Effective Memory Clock": "16000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 2000
+    },
+    "Price": {
+      "Launch Price": "$579",
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226af27",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "AMD AMD Radeon RX 6800",
+      "Architecture": "Navi 21 XL (215-121000187), RDNA 2.0",
+      "Graphics Clock": "1700 MHz",
+      "Memory": "16 GB GDDR6 at 2000 MHz",
+      "Fill Rates": "Texture: 505.2 Gigatexels/s, Pixel: 202.08 Gigapixels/s",
+      "Display Connectors": "2 x DisplayPort 1.4a, HDMI, USB Type-C",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226beb9",
+    "Product": {
+      "Part Number": "NE6306TS19P2-190AB (Barcode: 471056224-2294)",
+      "Manufacturer": "Gainward",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce RTX 3060 Ti",
+      "Category": "GPUs",
+      "Model": "Gainward GeForce RTX 3060 Ti Ghost OC",
+      "Version": "NE6306TS19P2-190AB (Barcode: 471056224-2294)",
+      "english_id": "646f83b581980c969226beb9",
+      "Brand": "Gainward",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "152",
+        "RT Cores": "38",
+        "CUDA Cores": "4864",
+        "ROPs": "80",
+        "Tensor Cores": "152",
+        "SM Count": "38"
+      },
+      "CUDA Version": "8.6",
+      "Clock Frequencies": {
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1695 MHz"
+      },
+      "Architecture": {
+        "Die Name": "GA104-200-A1",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "17.4 billion",
+        "Architecture": "Ampere",
+        "Fabrication Process": "8 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "9.72 inches (247 mm) x 4.72 inches (120 mm)",
+      "Card Height": "120 mm, 4.72 inches",
+      "Card Length": "247 mm, 9.72 inches"
+    },
+    "Power": {
+      "Max Power Draw": "200 W",
+      "Max Power Draw_W": 200
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "Power Connectors": "1 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4a",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "L2 Cache": "4 MB",
+      "Clock Speed": "1750 MHz",
+      "Size": "8 GB",
+      "Memory Bandwidth": "448 GB/s",
+      "Effective Memory Clock": "14 GHz",
+      "Type": "GDDR6",
+      "L1 Cache": "128 KB per SM",
+      "Clock Speed_MHz": 1750
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "257.64 Gigatexels/s",
+        "Pixel Fill Rate": "135.6 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "257.64 GFLOPS",
+        "Single Precision": "16.49 TFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.3, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226beb9",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "Gainward Gainward GeForce RTX 3060 Ti Ghost OC",
+      "Architecture": "GA104-200-A1, Ampere",
+      "Memory": "8 GB GDDR6 at 1750 MHz",
+      "Fill Rates": "Texture: 257.64 Gigatexels/s, Pixel: 135.6 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226b725",
+    "Product": {
+      "Part Number": "36ISL6MD1WGG",
+      "Manufacturer": "Galax",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce RTX 3060 Ti",
+      "Category": "GPUs",
+      "Model": "Galax GeForce RTX 3060 Ti EX (1-Click OC)",
+      "Version": "36ISL6MD1WGG",
+      "english_id": "646f83b581980c969226b725",
+      "Brand": "Galax",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "152",
+        "RT Cores": "38",
+        "CUDA Cores": "4864",
+        "ROPs": "80",
+        "Tensor Cores": "152",
+        "SM Count": "38"
+      },
+      "CUDA Version": "8.6",
+      "Clock Frequencies": {
+        "BIOS 2 Boost Clock": "1710 MHz",
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1695 MHz"
+      },
+      "Architecture": {
+        "Die Name": "GA104-200-A1",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "17.4 billion",
+        "Architecture": "Ampere",
+        "Fabrication Process": "8 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Triple Slot",
+      "Dimensions": "11.22 inches (285 mm) x 4.88 inches (124 mm)",
+      "Card Height": "124 mm, 4.88 inches",
+      "Card Length": "285 mm, 11.22 inches"
+    },
+    "Power": {
+      "Max Power Draw": "200 W",
+      "Max Power Draw_W": 200
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "Power Connectors": "1 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4a",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "L2 Cache": "4 MB",
+      "Clock Speed": "1750 MHz",
+      "Size": "8 GB",
+      "Memory Bandwidth": "448 GB/s",
+      "Effective Memory Clock": "14 GHz",
+      "Type": "GDDR6",
+      "L1 Cache": "128 KB per SM",
+      "Clock Speed_MHz": 1750
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "257.64 / 259.92 Gigatexels/s",
+        "Pixel Fill Rate": "135.6 / 136.8 Gigapixels/s"
+      },
+      "Compute Power": {
+        "BIOS 2 Double Precision": "259.92 GFLOPS",
+        "Double Precision": "257.64 GFLOPS",
+        "Single Precision": "16.49 TFLOPS",
+        "BIOS 2 Single Precision": "16.63 TFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.3, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226b725",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "Galax Galax GeForce RTX 3060 Ti EX (1-Click OC)",
+      "Architecture": "GA104-200-A1, Ampere",
+      "Memory": "8 GB GDDR6 at 1750 MHz",
+      "Fill Rates": "Texture: 257.64 / 259.92 Gigatexels/s, Pixel: 135.6 / 136.8 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Triple Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226bec1",
+    "Product": {
+      "Part Number": "NE6306T019P2-190AB (Barcode: 471056224-2270)",
+      "Manufacturer": "Gainward",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce RTX 3060 Ti",
+      "Category": "GPUs",
+      "Model": "Gainward GeForce RTX 3060 Ti Ghost",
+      "Version": "NE6306T019P2-190AB (Barcode: 471056224-2270)",
+      "english_id": "646f83b581980c969226bec1",
+      "Brand": "Gainward",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "152",
+        "RT Cores": "38",
+        "CUDA Cores": "4864",
+        "ROPs": "80",
+        "Tensor Cores": "152",
+        "SM Count": "38"
+      },
+      "CUDA Version": "8.6",
+      "Clock Frequencies": {
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1665 MHz"
+      },
+      "Architecture": {
+        "Die Name": "GA104-200-A1",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "17.4 billion",
+        "Architecture": "Ampere",
+        "Fabrication Process": "8 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "9.72 inches (247 mm) x 4.72 inches (120 mm)",
+      "Card Height": "120 mm, 4.72 inches",
+      "Card Length": "247 mm, 9.72 inches"
+    },
+    "Power": {
+      "Max Power Draw": "200 W",
+      "Max Power Draw_W": 200
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "Power Connectors": "1 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4a",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "L2 Cache": "4 MB",
+      "Clock Speed": "1750 MHz",
+      "Size": "8 GB",
+      "Memory Bandwidth": "448 GB/s",
+      "Effective Memory Clock": "14 GHz",
+      "Type": "GDDR6",
+      "L1 Cache": "128 KB per SM",
+      "Clock Speed_MHz": 1750
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "253.08 Gigatexels/s",
+        "Pixel Fill Rate": "133.2 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "253.08 GFLOPS",
+        "Single Precision": "16.20 TFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.3, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226bec1",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "Gainward Gainward GeForce RTX 3060 Ti Ghost",
+      "Architecture": "GA104-200-A1, Ampere",
+      "Memory": "8 GB GDDR6 at 1750 MHz",
+      "Fill Rates": "Texture: 253.08 Gigatexels/s, Pixel: 133.2 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226d7c2",
+    "Product": {
+      "Manufacturer": "MSI",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "MSI GeForce GTX 1650 D6 AERO ITX OC",
+      "Version": "",
+      "english_id": "646f83b581980c969226d7c2",
+      "Brand": "MSI",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Boost Clock": "1620 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "6.69 inches (170 mm) x 4.376 inches (111 mm)",
+      "Card Height": "111 mm, 4.376 inches",
+      "Card Length": "170 mm, 6.69 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "Power Connectors": "",
+      "Display Connectors_Array": [
+        "DisplayPort 1.4",
+        "Dual Link DVI-D",
+        "HDMI"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "90.72 Gigatexels/s",
+        "Pixel Fill Rate": "51.84 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "90.72 GFLOPS",
+        "Single Precision": "2903.04 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max DVI Resolution": "2560 x 1600",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226d7c2",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "MSI MSI GeForce GTX 1650 D6 AERO ITX OC",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 90.72 Gigatexels/s, Pixel: 51.84 Gigapixels/s",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226b1eb",
+    "Product": {
+      "Part Number": "04G-P4-1255-KR",
+      "Manufacturer": "EVGA",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "EVGA GeForce GTX 1650 SC ULTRA BLACK GDDR6 GAMING",
+      "Version": "04G-P4-1255-KR",
+      "english_id": "646f83b581980c969226b1eb",
+      "Brand": "EVGA",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Boost Clock": "1605 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "7.96 inches (202.1 mm) x 4.376 inches (111.15 mm)",
+      "Card Height": "111.15 mm, 4.376 inches",
+      "Card Length": "202.1 mm, 7.96 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "2 x DisplayPort 1.4, HDMI",
+      "Power Connectors": "1 x 6-pin",
+      "Display Connectors_Array": [
+        "2 x DisplayPort 1.4",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 6-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "89.88 Gigatexels/s",
+        "Pixel Fill Rate": "51.36 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "89.88 GFLOPS",
+        "Single Precision": "2876.16 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226b1eb",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "EVGA EVGA GeForce GTX 1650 SC ULTRA BLACK GDDR6 GAMING",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 89.88 Gigatexels/s, Pixel: 51.36 Gigapixels/s",
+      "Display Connectors": "2 x DisplayPort 1.4, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226b5d5",
+    "Product": {
+      "Part Number": "GV-N1656WF2OC-4GD",
+      "Manufacturer": "GIGABYTE",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "GIGABYTE GeForce GTX 1650 D6 WINDFORCE OC 4G",
+      "Version": "GV-N1656WF2OC-4GD",
+      "english_id": "646f83b581980c969226b5d5",
+      "Brand": "GIGABYTE",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Boost Clock": "1710 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "7.52 inches (191 mm) x 4.41 inches (112 mm)",
+      "Card Height": "112 mm, 4.41 inches",
+      "Card Length": "191 mm, 7.52 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "Power Connectors": "1 x 6-pin",
+      "Display Connectors_Array": [
+        "DisplayPort 1.4",
+        "Dual Link DVI-D",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 6-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "95.76 Gigatexels/s",
+        "Pixel Fill Rate": "54.72 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "95.76 GFLOPS",
+        "Single Precision": "3064.32 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max DVI Resolution": "2560 x 1600",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226b5d5",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "GIGABYTE GIGABYTE GeForce GTX 1650 D6 WINDFORCE OC 4G",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 95.76 Gigatexels/s, Pixel: 54.72 Gigapixels/s",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226a6d0",
+    "Product": {
+      "Part Number": "ROG-STRIX-LC-RX6900XT-O16G-GAMING",
+      "Manufacturer": "ASUS",
+      "Market Segment": "Desktop",
+      "GPU Base": "AMD Radeon RX 6900 XT",
+      "Category": "GPUs",
+      "Model": "ASUS ROG Strix LC Radeon RX 6900 XT",
+      "Version": "ROG-STRIX-LC-RX6900XT-O16G-GAMING",
+      "english_id": "646f83b581980c969226a6d0",
+      "Brand": "ASUS",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "320",
+        "RT Cores": "80",
+        "Stream Processors": "5120"
+      },
+      "Clock Frequencies": {
+        "Boost Clock": "2365 MHz",
+        "Game Clock": "2135 MHz"
+      },
+      "Architecture": {
+        "Die Name": "Navi 21 XTX (215-121000167)",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "26.8 billion",
+        "Architecture": "RDNA 2.0",
+        "Fabrication Process": "7 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.1",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Display": {
+      "Technologies": {
+        "Color ROPs": "128",
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "HDCP 2.3, High Dynamic Range (HDR) Support"
+      },
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 3112",
+        "Max DisplayPort Resolution": "7680 x 4320",
+        "Max Monitors Supported": "Up to 4 displays"
+      }
+    },
+    "Performance": {
+      "Additional Performance Metrics": {
+        "Compute Units": "80"
+      },
+      "Fill Rates": {
+        "Texture Fill Rate": "756.8 Gigatexels/s",
+        "Pixel Fill Rate": "302.72 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "1513.6 GFLOPS",
+        "Single Precision": "24.22 TFLOPS"
+      }
+    },
+    "Design": {
+      "Slot Width": "Triple Slot",
+      "Dimensions": "10.91 inches (277 mm) x 5.16 inches (131 mm)",
+      "Card Height": "131 mm, 5.16 inches",
+      "Card Length": "277 mm, 10.91 inches"
+    },
+    "Power": {
+      "Max Power Draw": "300 W",
+      "Max Power Draw_W": 300
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "2 x DisplayPort 1.4a, HDMI, USB Type-C",
+      "Power Connectors": "3 x 8-pin",
+      "Display Connectors_Array": [
+        "2 x DisplayPort 1.4a",
+        "HDMI",
+        "USB Type-C"
+      ],
+      "Power Connectors_Array": [
+        "3 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "Clock Speed": "2000 MHz",
+      "Size": "16 GB",
+      "Memory Bandwidth": "512 GB/s",
+      "Effective Memory Clock": "16000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 2000
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226a6d0",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "ASUS ASUS ROG Strix LC Radeon RX 6900 XT",
+      "Architecture": "Navi 21 XTX (215-121000167), RDNA 2.0",
+      "Memory": "16 GB GDDR6 at 2000 MHz",
+      "Fill Rates": "Texture: 756.8 Gigatexels/s, Pixel: 302.72 Gigapixels/s",
+      "Display Connectors": "2 x DisplayPort 1.4a, HDMI, USB Type-C",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Triple Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226aa67",
+    "Product": {
+      "Part Number": "RX6900XT PGD 16GO",
+      "Manufacturer": "ASRock",
+      "Market Segment": "Desktop",
+      "GPU Base": "AMD Radeon RX 6900 XT",
+      "Category": "GPUs",
+      "Model": "ASRock Radeon RX 6900 XT Phantom Gaming D 16G OC",
+      "Version": "RX6900XT PGD 16GO",
+      "english_id": "646f83b581980c969226aa67",
+      "Brand": "ASRock",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "320",
+        "RT Cores": "80",
+        "Stream Processors": "5120"
+      },
+      "Clock Frequencies": {
+        "Graphics Clock": "1925 MHz",
+        "Boost Clock": "2340 MHz",
+        "Game Clock": "2105 MHz"
+      },
+      "Architecture": {
+        "Die Name": "Navi 21 XTX (215-121000167)",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "26.8 billion",
+        "Architecture": "RDNA 2.0",
+        "Fabrication Process": "7 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.1",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Display": {
+      "Technologies": {
+        "Color ROPs": "128",
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "HDCP 2.3, High Dynamic Range (HDR) Support"
+      },
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 3112",
+        "Max DisplayPort Resolution": "7680 x 4320",
+        "Max Monitors Supported": "Up to 4 displays"
+      }
+    },
+    "Performance": {
+      "Additional Performance Metrics": {
+        "Compute Units": "80"
+      },
+      "Fill Rates": {
+        "Texture Fill Rate": "748.8 Gigatexels/s",
+        "Pixel Fill Rate": "299.52 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "1497.6 GFLOPS",
+        "Single Precision": "23.96 TFLOPS"
+      }
+    },
+    "Design": {
+      "Slot Width": "Triple Slot",
+      "Dimensions": "13 inches (330 mm) x 5.51 inches (140 mm)",
+      "Card Height": "140 mm, 5.51 inches",
+      "Card Length": "330 mm, 13 inches"
+    },
+    "Power": {
+      "Max Power Draw": "300 W",
+      "Max Power Draw_W": 300
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "Power Connectors": "3 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4a",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "3 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "Clock Speed": "2000 MHz",
+      "Size": "16 GB",
+      "Memory Bandwidth": "512 GB/s",
+      "Effective Memory Clock": "16000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 2000
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226aa67",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "ASRock ASRock Radeon RX 6900 XT Phantom Gaming D 16G OC",
+      "Architecture": "Navi 21 XTX (215-121000167), RDNA 2.0",
+      "Graphics Clock": "1925 MHz",
+      "Memory": "16 GB GDDR6 at 2000 MHz",
+      "Fill Rates": "Texture: 748.8 Gigatexels/s, Pixel: 299.52 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Triple Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226b076",
+    "Product": {
+      "Part Number": "08G-P5-3667-KR",
+      "Manufacturer": "EVGA",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce RTX 3060 Ti",
+      "Category": "GPUs",
+      "Model": "EVGA GeForce RTX 3060 Ti FTW3 ULTRA GAMING",
+      "Version": "08G-P5-3667-KR",
+      "english_id": "646f83b581980c969226b076",
+      "Brand": "EVGA",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "152",
+        "RT Cores": "38",
+        "CUDA Cores": "4864",
+        "ROPs": "80",
+        "Tensor Cores": "152",
+        "SM Count": "38"
+      },
+      "CUDA Version": "8.6",
+      "Clock Frequencies": {
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1800 MHz"
+      },
+      "Architecture": {
+        "Die Name": "GA104-200-A1",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "17.4 billion",
+        "Architecture": "Ampere",
+        "Fabrication Process": "8 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Triple Slot",
+      "Dimensions": "11.23 inches (285.4 mm) x 4.38 inches (111.15 mm)",
+      "Card Height": "111.15 mm, 4.38 inches",
+      "Card Length": "285.4 mm, 11.23 inches"
+    },
+    "Power": {
+      "Max Power Draw": "200 W",
+      "Max Power Draw_W": 200
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "Power Connectors": "2 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4a",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "2 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "L2 Cache": "4 MB",
+      "Clock Speed": "1750 MHz",
+      "Size": "8 GB",
+      "Memory Bandwidth": "448 GB/s",
+      "Effective Memory Clock": "14 GHz",
+      "Type": "GDDR6",
+      "L1 Cache": "128 KB per SM",
+      "Clock Speed_MHz": 1750
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "273.6 Gigatexels/s",
+        "Pixel Fill Rate": "144 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "273.6 GFLOPS",
+        "Single Precision": "17.51 TFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.3, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226b076",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "EVGA EVGA GeForce RTX 3060 Ti FTW3 ULTRA GAMING",
+      "Architecture": "GA104-200-A1, Ampere",
+      "Memory": "8 GB GDDR6 at 1750 MHz",
+      "Fill Rates": "Texture: 273.6 Gigatexels/s, Pixel: 144 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Triple Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226d7c5",
+    "Product": {
+      "Manufacturer": "MSI",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "MSI GeForce GTX 1650 D6 VENTUS XS OC",
+      "Version": "",
+      "english_id": "646f83b581980c969226d7c5",
+      "Brand": "MSI",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Boost Clock": "1620 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "7.01 inches (178 mm) x 4.376 inches (111 mm)",
+      "Card Height": "111 mm, 4.376 inches",
+      "Card Length": "178 mm, 7.01 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "Power Connectors": "",
+      "Display Connectors_Array": [
+        "DisplayPort 1.4",
+        "Dual Link DVI-D",
+        "HDMI"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "90.72 Gigatexels/s",
+        "Pixel Fill Rate": "51.84 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "90.72 GFLOPS",
+        "Single Precision": "2903.04 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max DVI Resolution": "2560 x 1600",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226d7c5",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "MSI MSI GeForce GTX 1650 D6 VENTUS XS OC",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 90.72 Gigatexels/s, Pixel: 51.84 Gigapixels/s",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226b073",
+    "Product": {
+      "Part Number": "08G-P5-3661-KR",
+      "Manufacturer": "EVGA",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce RTX 3060 Ti",
+      "Category": "GPUs",
+      "Model": "EVGA GeForce RTX 3060 Ti XC BLACK GAMING",
+      "Version": "08G-P5-3661-KR",
+      "english_id": "646f83b581980c969226b073",
+      "Brand": "EVGA",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "152",
+        "RT Cores": "38",
+        "CUDA Cores": "4864",
+        "ROPs": "80",
+        "Tensor Cores": "152",
+        "SM Count": "38"
+      },
+      "CUDA Version": "8.6",
+      "Clock Frequencies": {
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1665 MHz"
+      },
+      "Architecture": {
+        "Die Name": "GA104-200-A1",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "17.4 billion",
+        "Architecture": "Ampere",
+        "Fabrication Process": "8 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "7.94 inches (201.8 mm) x 4.33 inches (110 mm)",
+      "Card Height": "110 mm, 4.33 inches",
+      "Card Length": "201.8 mm, 7.94 inches"
+    },
+    "Power": {
+      "Max Power Draw": "200 W",
+      "Max Power Draw_W": 200
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "Power Connectors": "1 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4a",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "L2 Cache": "4 MB",
+      "Clock Speed": "1750 MHz",
+      "Size": "8 GB",
+      "Memory Bandwidth": "448 GB/s",
+      "Effective Memory Clock": "14 GHz",
+      "Type": "GDDR6",
+      "L1 Cache": "128 KB per SM",
+      "Clock Speed_MHz": 1750
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "253.08 Gigatexels/s",
+        "Pixel Fill Rate": "133.2 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "253.08 GFLOPS",
+        "Single Precision": "16.20 TFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.3, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226b073",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "EVGA EVGA GeForce RTX 3060 Ti XC BLACK GAMING",
+      "Architecture": "GA104-200-A1, Ampere",
+      "Memory": "8 GB GDDR6 at 1750 MHz",
+      "Fill Rates": "Texture: 253.08 Gigatexels/s, Pixel: 133.2 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226ded1",
+    "Product": {
+      "Manufacturer": "NVIDIA",
+      "Market Segment": "Desktop",
+      "Category": "GPUs",
+      "Model": "NVIDIA GeForce RTX 2060 TU104",
+      "Version": "",
+      "english_id": "646f83b581980c969226ded1",
+      "Brand": "NVIDIA",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "120",
+        "RT Cores": "30",
+        "CUDA Cores": "1920",
+        "ROPs": "48",
+        "Tensor Cores": "240"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Base Clock": "1365 MHz",
+        "Boost Clock": "1680 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU104-150-KC-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "13.6 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Card Length": null,
+      "Card Height": null
+    },
+    "Power": {
+      "Max GPU Temperature": "88°C",
+      "Max Power Draw": "160 W (190 W with USB)",
+      "Max Power Draw_W": 160
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "2 x DisplayPort 1.4, Dual Link DVI-D, HDMI, USB Type C",
+      "Power Connectors": "1 x 8-pin",
+      "Display Connectors_Array": [
+        "2 x DisplayPort 1.4",
+        "Dual Link DVI-D",
+        "HDMI",
+        "USB Type C"
+      ],
+      "Power Connectors_Array": [
+        "1 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "192 bit",
+      "L2 Cache": "3 MB",
+      "Clock Speed": "1750 MHz",
+      "Size": "6 GB",
+      "Memory Bandwidth": "336 GB/s",
+      "Effective Memory Clock": "14000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1750
+    },
+    "Price": {
+      "Launch Price": "$349",
+      "MSRP": null
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "201.6 Gigatexels/s",
+        "Pixel Fill Rate": "80.64 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "201.6 GFLOPS",
+        "Single Precision": "6451.2 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max DVI Resolution": "2560 x 1600",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "english_id": "646f83b581980c969226ded1",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "NVIDIA NVIDIA GeForce RTX 2060 TU104",
+      "Architecture": "TU104-150-KC-A1, Turing",
+      "Memory": "6 GB GDDR6 at 1750 MHz",
+      "Fill Rates": "Texture: 201.6 Gigatexels/s, Pixel: 80.64 Gigapixels/s",
+      "Display Connectors": "2 x DisplayPort 1.4, Dual Link DVI-D, HDMI, USB Type C",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226deca",
+    "Product": {
+      "Manufacturer": "NVIDIA",
+      "Market Segment": "Desktop",
+      "PCB Number": "PG132 SKU 10",
+      "Category": "GPUs",
+      "Model": "NVIDIA GeForce RTX 3080",
+      "Version": "",
+      "english_id": "646f83b581980c969226deca",
+      "Brand": "NVIDIA",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "272",
+        "RT Cores": "68",
+        "CUDA Cores": "8704",
+        "ROPs": "96",
+        "Tensor Cores": "272",
+        "SM Count": "68"
+      },
+      "CUDA Version": "8.5",
+      "Clock Frequencies": {
+        "Base Clock": "1440 MHz",
+        "Boost Clock": "1710 MHz"
+      },
+      "Architecture": {
+        "Die Name": "GA102-200-K1-A1",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "28 billion",
+        "Architecture": "Ampere",
+        "Fabrication Process": "8 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "11.2 inches (285 mm) x 4.4 inches (112 mm)",
+      "Card Height": "112 mm, 4.4 inches",
+      "Card Length": "285 mm, 11.2 inches"
+    },
+    "Power": {
+      "Max Power Draw": "320 W",
+      "Max Power Draw_W": 320
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "Power Connectors": "2 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4a",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "2 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "320 bit",
+      "L2 Cache": "5 MB",
+      "Clock Speed": "1188 MHz",
+      "Size": "10 GB",
+      "Memory Bandwidth": "760.32 GB/s",
+      "Effective Memory Clock": "19.01 GHz",
+      "Type": "GDDR6X",
+      "L1 Cache": "128 KB per SM",
+      "Clock Speed_MHz": 1188
+    },
+    "Price": {
+      "Launch Price": "$699",
+      "MSRP": null
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "465.12 Gigatexels/s",
+        "Pixel Fill Rate": "164.16 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "930.24 GFLOPS",
+        "Single Precision": "29.78 TFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.3, PhysX"
+      }
+    },
+    "english_id": "646f83b581980c969226deca",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "NVIDIA NVIDIA GeForce RTX 3080",
+      "Architecture": "GA102-200-K1-A1, Ampere",
+      "Memory": "10 GB GDDR6X at 1188 MHz",
+      "Fill Rates": "Texture: 465.12 Gigatexels/s, Pixel: 164.16 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226a6c7",
+    "Product": {
+      "Part Number": "ROG-STRIX-RX5600XT-O6G-GAMING",
+      "Manufacturer": "ASUS",
+      "Market Segment": "Desktop",
+      "GPU Base": "AMD Radeon RX 5600 XT",
+      "Category": "GPUs",
+      "Model": "ASUS ROG Strix Radeon RX 5600 XT OC Edition",
+      "Version": "ROG-STRIX-RX5600XT-O6G-GAMING",
+      "english_id": "646f83b581980c969226a6c7",
+      "Brand": "ASUS",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "144",
+        "Stream Processors": "2304"
+      },
+      "Clock Frequencies": {
+        "BIOS 2 Boost Clock": "1770 MHz",
+        "Graphics Clock": "1530 MHz",
+        "Boost Clock": "1750 MHz",
+        "BIOS 2 Game Clock": "1670 MHz",
+        "Game Clock": "1670 MHz"
+      },
+      "Architecture": {
+        "Die Name": "Navi 10 XLE",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "10.3 billion",
+        "Architecture": "RDNA 1.0",
+        "Fabrication Process": "7 nm"
+      },
+      "API": {
+        "Mantle Support": "Present",
+        "Vulkan Support": "1.1.125",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Display": {
+      "Technologies": {
+        "Color ROPs": "64",
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "Direct Compute 12, AMD PowerTune, AMD ZeroCore Power, ATI/AMD PowerPlay, HD3D Technology, HDCP 2.3, High Dynamic Range (HDR) Support"
+      },
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 3112",
+        "Max DisplayPort Resolution": "7680 x 4320",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320"
+      }
+    },
+    "Performance": {
+      "Additional Performance Metrics": {
+        "Compute Units": "36"
+      },
+      "Fill Rates": {
+        "Texture Fill Rate": "252.0 / 254.88 Gigatexels/s",
+        "Pixel Fill Rate": "112.0 / 113.28 Gigapixels/s"
+      },
+      "Compute Power": {
+        "BIOS 2 Double Precision": "509.76 GFLOPS",
+        "Double Precision": "504.00 GFLOPS",
+        "Single Precision": "8064.00 GFLOPS",
+        "BIOS 2 Single Precision": "8156.16 GFLOPS"
+      }
+    },
+    "Design": {
+      "Slot Width": "Triple Slot",
+      "Dimensions": "11.96 inches (303.7 mm) x 5.12 inches (130 mm)",
+      "Card Height": "130 mm, 5.12 inches",
+      "Card Length": "303.7 mm, 11.96 inches"
+    },
+    "Power": {
+      "Max Power Draw": "150 W",
+      "Max Power Draw_W": 150
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4, HDMI",
+      "Power Connectors": "1 x 6-pin, 1 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 6-pin",
+        "1 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "192 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "6144 MB",
+      "Memory Bandwidth": "288 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226a6c7",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "ASUS ASUS ROG Strix Radeon RX 5600 XT OC Edition",
+      "Architecture": "Navi 10 XLE, RDNA 1.0",
+      "Graphics Clock": "1530 MHz",
+      "Memory": "6144 MB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 252.0 / 254.88 Gigatexels/s, Pixel: 112.0 / 113.28 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Triple Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226e559",
+    "Product": {
+      "Manufacturer": "MSI",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "MSI GeForce GTX 1650 D6 GAMING",
+      "Version": "",
+      "english_id": "646f83b581980c969226e559",
+      "Brand": "MSI",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Boost Clock": "1620 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "9.65 inches (245 mm) x 5.0 inches (127 mm)",
+      "Card Height": "127 mm, 5.0 inches",
+      "Card Length": "245 mm, 9.65 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "2 x DisplayPort 1.4, HDMI",
+      "Power Connectors": "1 x 6-pin",
+      "Display Connectors_Array": [
+        "2 x DisplayPort 1.4",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 6-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "90.72 Gigatexels/s",
+        "Pixel Fill Rate": "51.84 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "90.72 GFLOPS",
+        "Single Precision": "2903.04 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226e559",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "MSI MSI GeForce GTX 1650 D6 GAMING",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 90.72 Gigatexels/s, Pixel: 51.84 Gigapixels/s",
+      "Display Connectors": "2 x DisplayPort 1.4, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226d7c7",
+    "Product": {
+      "Manufacturer": "MSI",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "MSI GeForce GTX 1650 D6 GAMING X",
+      "Version": "",
+      "english_id": "646f83b581980c969226d7c7",
+      "Brand": "MSI",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Boost Clock": "1710 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "9.65 inches (245 mm) x 5.0 inches (127 mm)",
+      "Card Height": "127 mm, 5.0 inches",
+      "Card Length": "245 mm, 9.65 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "2 x DisplayPort 1.4, HDMI",
+      "Power Connectors": "1 x 6-pin",
+      "Display Connectors_Array": [
+        "2 x DisplayPort 1.4",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 6-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "95.76 Gigatexels/s",
+        "Pixel Fill Rate": "54.72 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "95.76 GFLOPS",
+        "Single Precision": "3064.32 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226d7c7",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "MSI MSI GeForce GTX 1650 D6 GAMING X",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 95.76 Gigatexels/s, Pixel: 54.72 Gigapixels/s",
+      "Display Connectors": "2 x DisplayPort 1.4, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226df2c",
+    "Product": {
+      "Manufacturer": "NVIDIA",
+      "Market Segment": "Desktop",
+      "Category": "GPUs",
+      "Model": "NVIDIA GeForce GTX 1650 TU106",
+      "Version": "",
+      "english_id": "646f83b581980c969226df2c",
+      "Brand": "NVIDIA",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1590 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU106-125-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "10.8 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Card Length": null,
+      "Card Height": null
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "Power Connectors": "",
+      "Display Connectors_Array": [
+        "DisplayPort 1.4",
+        "Dual Link DVI-D",
+        "HDMI"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "89.04 Gigatexels/s",
+        "Pixel Fill Rate": "50.88 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "89.04 GFLOPS",
+        "Single Precision": "2849.28 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max DVI Resolution": "2560 x 1600",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226df2c",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "NVIDIA NVIDIA GeForce GTX 1650 TU106",
+      "Architecture": "TU106-125-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 89.04 Gigatexels/s, Pixel: 50.88 Gigapixels/s",
+      "Display Connectors": "DisplayPort 1.4, Dual Link DVI-D, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226c489",
+    "Product": {
+      "Part Number": "NE61650S1BG1-1175A",
+      "Manufacturer": "Palit",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce GTX 1650 GDDR6",
+      "Category": "GPUs",
+      "Model": "Palit GeForce GTX 1650 GP OC",
+      "Version": "NE61650S1BG1-1175A",
+      "english_id": "646f83b581980c969226c489",
+      "Brand": "Palit",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "56",
+        "CUDA Cores": "896",
+        "ROPs": "32"
+      },
+      "CUDA Version": "7.5",
+      "Clock Frequencies": {
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1725 MHz"
+      },
+      "Architecture": {
+        "Die Name": "TU117-300-A1",
+        "Bus Interface": "PCI-E 3.0 x 16",
+        "Transistor Count": "4.7 billion",
+        "Architecture": "Turing",
+        "Fabrication Process": "12 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.1.117",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.4",
+        "OpenCL Support": "1.2",
+        "DirectX Support": "12.0"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Dual Slot",
+      "Dimensions": "6.69 inches (170 mm) x 4.41 inches (112 mm)",
+      "Card Height": "112 mm, 4.41 inches",
+      "Card Length": "170 mm, 6.69 inches"
+    },
+    "Power": {
+      "Max GPU Temperature": "92°C",
+      "Max Power Draw": "75 W",
+      "Max Power Draw_W": 75
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "2 x DisplayPort 1.4, HDMI",
+      "Power Connectors": "1 x 6-pin",
+      "Display Connectors_Array": [
+        "2 x DisplayPort 1.4",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "1 x 6-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "128 bit",
+      "Clock Speed": "1500 MHz",
+      "Size": "4 GB",
+      "Memory Bandwidth": "192 GB/s",
+      "Effective Memory Clock": "12000 MHz",
+      "Type": "GDDR6",
+      "Clock Speed_MHz": 1500
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "96.6 Gigatexels/s",
+        "Pixel Fill Rate": "55.2 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "96.6 GFLOPS",
+        "Single Precision": "3091.2 GFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.0b",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 3 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.2, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226c489",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "Palit Palit GeForce GTX 1650 GP OC",
+      "Architecture": "TU117-300-A1, Turing",
+      "Memory": "4 GB GDDR6 at 1500 MHz",
+      "Fill Rates": "Texture: 96.6 Gigatexels/s, Pixel: 55.2 Gigapixels/s",
+      "Display Connectors": "2 x DisplayPort 1.4, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12.0",
+      "Slot Width": "Dual Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  },
+  {
+    "_id": "646f83b581980c969226b072",
+    "Product": {
+      "Part Number": "08G-P5-3662-KR",
+      "Manufacturer": "EVGA",
+      "Market Segment": "Desktop",
+      "GPU Base": "NVIDIA GeForce RTX 3060 Ti",
+      "Category": "GPUs",
+      "Model": "EVGA GeForce RTX 3060 Ti FTW3 BLACK GAMING",
+      "Version": "08G-P5-3662-KR",
+      "english_id": "646f83b581980c969226b072",
+      "Brand": "EVGA",
+      "Is Translated": true
+    },
+    "Technology": {
+      "Core": {
+        "Texture Units": "152",
+        "RT Cores": "38",
+        "CUDA Cores": "4864",
+        "ROPs": "80",
+        "Tensor Cores": "152",
+        "SM Count": "38"
+      },
+      "CUDA Version": "8.6",
+      "Clock Frequencies": {
+        "Base Clock": "1410 MHz",
+        "Boost Clock": "1710 MHz"
+      },
+      "Architecture": {
+        "Die Name": "GA104-200-A1",
+        "Bus Interface": "PCI-E 4.0 x 16",
+        "Transistor Count": "17.4 billion",
+        "Architecture": "Ampere",
+        "Fabrication Process": "8 nm"
+      },
+      "API": {
+        "Vulkan Support": "1.2",
+        "OpenGL Support": "4.6",
+        "Shader Model": "6.5",
+        "OpenCL Support": "2.0",
+        "DirectX Support": "12 Ultimate"
+      },
+      "Windows Driver Support": ""
+    },
+    "Design": {
+      "Slot Width": "Triple Slot",
+      "Dimensions": "11.23 inches (285.4 mm) x 4.38 inches (111.15 mm)",
+      "Card Height": "111.15 mm, 4.38 inches",
+      "Card Length": "285.4 mm, 11.23 inches"
+    },
+    "Power": {
+      "Max Power Draw": "200 W",
+      "Max Power Draw_W": 200
+    },
+    "Connectors": {
+      "Audio Input for HDMI": "Present",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "Power Connectors": "2 x 8-pin",
+      "Display Connectors_Array": [
+        "3 x DisplayPort 1.4a",
+        "HDMI"
+      ],
+      "Power Connectors_Array": [
+        "2 x 8-pin"
+      ]
+    },
+    "Memory": {
+      "Memory Interface Width": "256 bit",
+      "L2 Cache": "4 MB",
+      "Clock Speed": "1750 MHz",
+      "Size": "8 GB",
+      "Memory Bandwidth": "448 GB/s",
+      "Effective Memory Clock": "14 GHz",
+      "Type": "GDDR6",
+      "L1 Cache": "128 KB per SM",
+      "Clock Speed_MHz": 1750
+    },
+    "Performance": {
+      "Fill Rates": {
+        "Texture Fill Rate": "259.92 Gigatexels/s",
+        "Pixel Fill Rate": "136.8 Gigapixels/s"
+      },
+      "Compute Power": {
+        "Double Precision": "259.92 GFLOPS",
+        "Single Precision": "16.63 TFLOPS"
+      }
+    },
+    "Display": {
+      "Resolution": {
+        "HDMI Version": "2.1",
+        "HDMI Support": "Present",
+        "Max HDMI Resolution": "4096 x 2160 @ 60 Hz",
+        "Max DisplayPort Resolution": "7680 x 4320 @120 Hz",
+        "Max Monitors Supported": "Up to 4 displays",
+        "Max Digital Resolution": "7680 x 4320 @60 Hz"
+      },
+      "Technologies": {
+        "Anti-Aliasing Technologies": "",
+        "Decoders": "",
+        "Additional Features": "3D Vision, 3D Vision Surround, HDCP 2.3, PhysX"
+      }
+    },
+    "Price": {
+      "MSRP": null
+    },
+    "english_id": "646f83b581980c969226b072",
+    "is_translated": true,
+    "Key Aspects": {
+      "Manufacturer and Model": "EVGA EVGA GeForce RTX 3060 Ti FTW3 BLACK GAMING",
+      "Architecture": "GA104-200-A1, Ampere",
+      "Memory": "8 GB GDDR6 at 1750 MHz",
+      "Fill Rates": "Texture: 259.92 Gigatexels/s, Pixel: 136.8 Gigapixels/s",
+      "Display Connectors": "3 x DisplayPort 1.4a, HDMI",
+      "API Support": "OpenGL 4.6, DirectX 12 Ultimate",
+      "Slot Width": "Triple Slot"
+    },
+    "added_on": "2023-05-25T15:50:13.000Z"
+  }
+]

@@ -1,0 +1,110 @@
+{
+    "_id": "663b503f751ac417ea9a5e51",
+    "Product": {
+        "Brand": "HP",
+        "Family": "EliteBook",
+        "Series": "600",
+        "Model Name": "630 G9",
+        "Target Market": "Premium",
+        "Model": "HP EliteBook 630 G9",
+        "Category": "Laptops"
+    },
+    "Design": {
+        "Body": {
+            "Colors": "Silver",
+            "Style": "Clamshell",
+            "Width (Longer Side)_mm": 306.9,
+            "Height (Shorter Side)_mm": 208.4,
+            "Weight_g": 1280,
+            "Thickness_mm": 15.9
+        },
+        "Touchpad": {
+            "Pointing Device": "Clickpad"
+        },
+        "Keyboard": {
+            "Model": "Clavier HP Premium",
+            "Additional Features": "Numeric Keypad, Backlight, Spill Resistant Keyboard"
+        }
+    },
+    "No": {
+        "Touchscreen": "Touchscreen",
+        "ECC": "Error Correcting Code (ECC)",
+        "Dedicated Card": "Dedicated Graphics Card",
+        "Numeric Keypad": "Numeric Keypad"
+    },
+    "Display": {
+        "Resolution (H x W)": "1920 x 1080 pixels",
+        "Definition": "Full HD",
+        "Technology": "Micro-Edge",
+        "Brightness": "400 cd/m²",
+        "Type": "IPS",
+        "Additional Features": "Anti Glare",
+        "Diagonal": "13.3 inch, 33.8 cm"
+    },
+    "Inside": {
+        "CPU": {
+            "Generation": "12th gen Intel Core i5",
+            "Number of Cores": "10",
+            "Clock Speed": "1.3 GHz",
+            "Family": "Intel Core i5",
+            "Model": "i5-1235U",
+            "Number of Threads": "12",
+            "Cache": "12 MB",
+            "Maximum Frequency": "4.4 GHz",
+            "Brand": "Intel"
+        },
+        "RAM": {
+            "Capacity": "16 GB",
+            "Type": "DDR4-SDRAM",
+            "Clock Speed": "3200 MHz"
+        },
+        "GPU": {
+            "Integrated Card Brand": "Intel",
+            "Dedicated Card Model": "",
+            "Integrated Card Model": "Intel Iris Xe Graphics",
+            "Integrated Card Family": "Intel Iris Xe Graphics"
+        },
+        "SSD": {
+            "Total SSD Capacity": "512 GB",
+            "Storage Type": "SSD"
+        },
+        "Wireless": {
+            "WiFi Adapter": "Intel Wi-Fi 6E AX211",
+            "WiFi Standards": "Wi-Fi 6E (802.11ax)",
+            "Bluetooth Version": "5.3"
+        },
+        "Ports": {
+            "Number of HDMI Ports": "1",
+            "Number of Ethernet LAN (RJ-45) Ports": "1",
+            "HDMI Version": "2.0",
+            "Number of Thunderbolt 4 Ports": "1",
+            "Number of USB 3,2 Gen 1 Type A Ports": "2",
+            "Additional Features": "USB Type C DisplayPort Alternate Mode, USB Power Delivery"
+        },
+        "Software": {
+            "Operating System Version": "Windows 11 Pro"
+        },
+        "Battery": {
+            "Weight": "180 g",
+            "Type": "Lithium-Ion (Li-Ion)",
+            "Capacity (mAh)": "42 Wh"
+        },
+        "Power": {
+            "Power": "65 W",
+            "Frequency": "50 - 60 Hz",
+            "Voltage": "100 - 240 V"
+        },
+        "Security": {
+            "TPM (Trusted Platform Module) Version": "2.0",
+            "Password Protection": "Present",
+            "Tools": "Absolute persistence module, HP DriveLock and Automatic DriveLock, HP Secure Erase, HP Sure Click, HP Sure Sense, BIOS Update via Network, HP Sure Admin, HP BIOSphere Gen6, HP Client Security Manager Gen7, TPM 2.0 embedded security chip (Common Criteria EAL4+ and FIPS 140-2 Level 2 Certified), HP Sure Start Gen7, HP Wake on WLAN, HP Tamper Lock, HP Sure Run Gen5, HP Sure Recover Gen5, Secured-Core PC Enable",
+            "Additional Features": "Trusted Platform Module (TPM)"
+        }
+    },
+    "Camera": {
+        "Front Camera": {
+            "Definition": "HD",
+            "Additional Features": "Camera Module, Infrared Camera"
+        }
+    }
+}
