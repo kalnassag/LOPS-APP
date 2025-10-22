@@ -6,14 +6,16 @@ def normalise_path_to_properties(col, product_type=None):
     """
     Reads the JSON file and converts the dot notation (e.g. Product.Model Name) to
     an appropriate snake case property name (product_model_name).
-    Removes redundant prefixes like 'design_body_' and replaces them with the product type.
+    Replaces first-level keys (Design, Inside, Display, etc.) with the product type.
 
     Args:
-        col: The column name in dot notation
-        product_type: The type of product (e.g., 'laptop', 'tablet', 'smartwatch')
+        col: The column name in dot notation (e.g., "Design.Body.Height_mm")
+        product_type: The type of product in singular form (e.g., 'laptop', 'tablet', 'smartwatch')
 
     Returns:
-        Normalised property name with redundant text removed and product type added where appropriate
+        Normalised property name with first-level key replaced by product type
+        E.g., "Design.Body.Height_mm" -> "laptop_body_height_mm"
+              "Inside.Software.OS" -> "smartwatch_software_os"
     """
     pattern = r'[\s().]+'
     normalised_item = re.sub(pattern, "_", str(col))
@@ -22,32 +24,51 @@ def normalise_path_to_properties(col, product_type=None):
     if normalised_item.startswith("no_"):
         normalised_item = "has" + normalised_item.lstrip("no.")
 
-    # Remove redundant prefixes and replace with product type
-    if product_type:
-        redundant_prefixes = [
-            "design_body_",
-        ]
-        for prefix in redundant_prefixes:
-            if normalised_item.startswith(prefix):
-                # Remove the redundant prefix and add product type
-                normalised_item = product_type + "_" + normalised_item[len(prefix):]
-                break
+    # Replace first-level key with product type
+    if product_type and '_' in normalised_item:
+        # Split the normalized item to get the first segment
+        parts = normalised_item.split('_')
+        first_level_key = parts[0]
+
+        # List of first-level keys that should be replaced with product type
+        replaceable_keys = ['design', 'inside', 'display', 'camera', 'product']
+
+        if first_level_key in replaceable_keys:
+            # Replace the first segment with product type
+            parts[0] = product_type
+            normalised_item = '_'.join(parts)
 
     return normalised_item
+
+def to_singular(category):
+    """
+    Converts a category name to singular form.
+    E.g., 'Laptops' -> 'laptop', 'Tablets' -> 'tablet', 'Smartwatches' -> 'smartwatch'
+    """
+    if not category:
+        return None
+    category = category.lower()
+    # Handle words ending in 'ches', 'shes', 'xes', 'ses' -> remove 'es'
+    if category.endswith(('ches', 'shes', 'xes', 'ses')):
+        return category[:-2]
+    # Handle words ending in 's' -> remove 's'
+    elif category.endswith('s'):
+        return category[:-1]
+    return category
 
 def map_properties(sample_file):
     """"
     Maps property names from the json files to the normalised property name as they should appear in the graph.
     Check the files *_property_mapping.json to see how tha looks like.
     """
-    # Extract product type from filename (e.g., 'laptop' from 'laptop_sample.json')
-    import os
-    filename = os.path.basename(sample_file)
-    product_type = filename.split('_')[0] if '_' in filename else None
-
     property_mapping = {}
     with open(sample_file, 'r') as sf:
         file = json.load(sf)
+
+        # Extract product type from Product.Category field
+        product_category = file.get('Product', {}).get('Category', None)
+        product_type = to_singular(product_category) if product_category else None
+
         data = pd.json_normalize(file)
         for col in data.columns:
             if col.startswith('No.'):
