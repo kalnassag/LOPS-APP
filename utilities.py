@@ -31,9 +31,9 @@ def map_properties(sample_file):
             property_mapping[col] = graph_property
     return property_mapping
 
-def save_mapping(prop_mapping, filename='laptop_property_mapping.json'):
+def save_mapping(prop_mapping, filename):
     with open(filename, 'w') as f:
         json.dump(prop_mapping, f, indent=2)
         print("succeeded")
 
-save_mapping(map_properties('smartwatch_property_mapping.json'), filename = 'smartwatch_property_mapping.json')
+save_mapping(map_properties('tablets_sample.json'), filename = 'tablets_property_mapping.json')
